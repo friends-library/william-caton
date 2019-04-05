@@ -1,8 +1,11 @@
 == Chapter V.
 
-1655--He visits Calais in France--Returns to Dover--Travels to Yarmouth,
-and afterwards into the North--With John Stubbs sails to
-Holland--Their labours in that country--Returns to England.
+* 1655--He visits Calais in France
+* Returns to Dover
+* Travels to Yarmouth, and afterwards into the North
+* With John Stubbs sails to Holland
+* Their labours in that country
+* Returns to England.
 
 Upon the 12th of the fourth month, 1655, it was upon me to go over to Calais, in France,
 which accordingly I did from Dover.
@@ -161,7 +164,7 @@ in which we put our confidence.
 And when through mercy we were gotten well ashore,
 we went up into the country among Friends,
 with whom we were more than a little refreshed in the Lord.
-After I had had several meetings in the bishoprick +++[+++Durham,]
+After I had had several meetings in the bishoprick +++[+++Durham,+++]+++
 I went again into Lancashire, and coming to Swarthmore,
 I was received with joy again in the Lord, in whom our refreshment was great,
 and a very precious time we had afterwards together,

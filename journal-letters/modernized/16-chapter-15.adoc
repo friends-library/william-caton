@@ -1,16 +1,17 @@
-== Chapter XV.
+== Chapter XV
 
-1661-- He visits Manheim and Frankfort,
-his ill-treatment in a Monastery--Visits the Jesuits`' College at Worms--At
-Heidleberg is introduced to the Prince--Is married to Anneken Derricks at Amsterdam,
-1662.
+[.chapter-synopsis]
+* 1661-- He visits Manheim and Frankfort, his ill-treatment in a Monastery
+* Visits the Jesuits`' College at Worms
+* At Heidleberg is introduced to the Prince
+* Is married to Anneken Derricks at Amsterdam, 1662.
 
-I WAS several months, yes half a-year, in that country,
+I was several months, yes half a-year, in that country,
 where I had very good service for the Lord, some time in one place, some time in another.
 I was several times at a city called Manheim, where there were a sort of Baptists,
 who lived together as one family, and had their goods common;
 with whom I was several times, and did bear my testimony among them to the truth of God,
-though few of them received it,
+though few of them received it.
 I was several times with the governor of that city at his own house;
 and he was very courteous to me, at least seemingly,
 and desired me as often as I came to the city, to come to his house.
@@ -68,17 +69,21 @@ and returned again to Kriesheim, where our Friends inhabited; for sometimes I wa
 sometimes at Heidleberg, and sometimes elsewhere,
 where I saw the Lord had a service for me.
 
+[.offset]
 +++[+++The following is an extract from an Epistle addressed to Friends in London,
-by William Caton, dated Kreisheim, near Worms, in Germany, 50th of Eleventh month, 1661,
-This instructive Epistle is printed at large in Besse`'s Sufferings, vol.
-ii. p, 451.
+by William Caton, dated Kreisheim, near Worms, in Germany, 50th of Eleventh month, 1661.
+This instructive Epistle is printed at large in [.book-title]#Besse`'s Sufferings#, vol.
+2+++.+++ p, 451.+++]+++
+
+[.embedded-content-epistle]
+--
 
 We have cause to praise and magnify the Lord God omnipotent forever,
 who does not only comfort and refresh us in our tribulations,
 through the consolations of his eternal Spirit, but also has prepared a refuge for us,
 which we have truly found in his eternal light and pure power.
 And now if no storm had come,
-then I believe there would not have been such flocking and flying to this refuse,
+then I believe there would not have been such flocking and flying to this refuge,
 as there has been, and as there is, and as I hope, there will be; therefore,
 if the storms of persecution do drive such as were neither cold nor hot from under
 their green trees of specious pretences and fair shows of religion and reformation,
@@ -96,8 +101,7 @@ And forasmuch as I know that the refuge before mentioned is known to you,
 and the covering of the Lord`'s eternal Spirit manifested in you,
 which is the banner of his love spread over you,
 therefore I beseech you to be of good courage in the Lord:
-for to what end should you fear?
-to what end should you be troubled?
+for to what end should you fear?--to what end should you be troubled?
 to what end should you take thought?
 You know that neither fear of heart, trouble of mind, nor yet taking of thought,
 can in any wise avert these things.
@@ -130,21 +134,24 @@ the Lutherans, and the Calvinists;
 and all these have their particular government in their particular cities and villages;
 and all of them are addicted to persecute those that are not of their sect.
 But above all others they seem to be bent against us, as the most offensive, irregular,
-and perturbatious people that are of any sect;
+and perturbing people that are of any sect;
 and notwithstanding the great variance that is and has been among themselves,
 yet they can, as it were, join hand in hand against the truth and us.
 As for the Roman Catholics, they hate us as new up-started heretics,
 whom they account worthy of death: and the Protestants, they revile us and upbraid us,
 as if we were the pope`'s emissaries;
 and many of them esteem us as not fit to live upon the earth:
-so that as much as in them lies, they seek to toss us to and again,
+so that as much as in them lies, they seek to toss us to and fro,
 as a ship upon a troubled sea.
 But thanks be to God, our anchor holds; so that they, with all their hard threatenings,
 which proceed from their rocky hearts, cannot split our confidence,
 nor make shipwreck of our faith; which is in the Lord Jehovah, who is over all,
 blessed forevermore!`"
 
+[.signed-section-signature]
 William Caton.
+
+--
 
 When I was at Heidleberg, there came two of my dear brethren to the city,
 John Stubbs and Henry Fell, who had been at Alexandria in Egypt, and in Italy, etc.
@@ -183,8 +190,9 @@ which accordingly I did.
 When, through the mercy of the Lord, I was gotten well there, I visited Friends,
 as my manner was, and we were sweetly refreshed together.
 
+[.offset]
 +++[+++In the eighth month, 1662, he was married to Anneken Derricks,
-at the meeting in Amstersdam.]
+at the meeting in Amstersdam.+++]+++
 
 The same day after the meeting was done, we brought William Ames`'s body to the ground,
 who had finished his testimony, and left a good savor behind him.

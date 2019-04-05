@@ -1,9 +1,12 @@
-== Chapter IX.
+== Chapter IX
 
-1656--Sails for Holland--Visits Amsterdam and Rotterdam--His
-service at both places--Is imprisoned at Middleburgh,
-and conveyed on board of a ship of war for England--Travels into the South of England,
-returns to London (1656-7)--Proceeds again to Holland.
+[.chapter-synopsis]
+* 1656--Sails for Holland--
+* Visits Amsterdam and Rotterdam
+* His service at both places
+* Is imprisoned at Middleburgh, and conveyed on board of a ship of war for England
+* Travels into the South of England, returns to London (1656-7)
+* Proceeds again to Holland.
 
 About the beginning of the seventh month 1656, being at London,
 with several of the brethren,
@@ -20,7 +23,7 @@ Nevertheless I was in readiness, though in that weak condition,
 to take the first opportunity; and very much I desired to have a companion along with me,
 if Providence had so ordered it: howbeit, I went finally alone;
 and met with some wicked and uncivil men in the same vessel in which I went over;
-some of whom in their jollity abused me: but before we got over to Holland,
+some of whom in their merriment abused me: but before we got over to Holland,
 we had a pretty sore storm, and to outward appearance were in much danger.
 At that time great was the fear and anguish that came upon those that were so wicked:
 and even then the Lord raised me up, in whom my faith and confidence was.
@@ -193,21 +196,21 @@ but the Lord was with me,
 and the right hand of his righteousness upheld
 me,--glory be to his holy name forever and ever!
 
+[.offset]
 +++[+++The following valuable epistle from the Swarthmore Collection, is dated "`Amsterdam,
-in Holland, 15th of third month,
-1657:`" it bears an endorsement in the handwriting (as
-the editor believes,) of George Fox,
-thus:
+in Holland, 15th of third month, 1657:`" It bears an endorsement in the handwriting
+(as the editor believes,) of George Fox, thus: William Caton to Friends, 1657.+++]+++
 
-William Caton to Friends, 1657.
+[.embedded-content-document.letter]
+--
 
 To all my dearly beloved Friends that be elected of God,
 sanctified through the Word of his grace to be vessels of honor,
 to the praise and glory of his name everlasting: Mercy,
-grace and peace be multiplied amongst you, from God, the Father of our Lord Jesus Christ,
+grace and peace be multiplied among you, from God, the Father of our Lord Jesus Christ,
 the fountain of love and life, from whom all goodness does come;
 who has distributed of the riches of his grace unto you,
-and manifested his living power amongst you;
+and manifested his living power among you;
 by which he has quickened some of you who were dead in trespasses and sins,
 and given you a sight of the entrance into the eternal inheritance,
 which never fades away.
@@ -271,7 +274,7 @@ For he is a Father to the fatherless,
 and he increases the strength of such as have no might: so unto him you may come,
 as unto a living fountain, from whom none are sent empty away,
 who thirst and pant after the Lord.
-Oh! blessed are all they that come to drink here of this Fountain of living waters;
+Oh! Blessed are all they that come to drink here of this Fountain of living waters;
 their souls shall never thirst more: and you,
 whose souls are thirsting and longing to participate of it, you shall be satisfied.
 For I know that no visible created thing can satisfy that which longs to be
@@ -299,7 +302,7 @@ But woe to them that take up their rest by the way, and so come short;
 they shall inherit sorrow and vexation, and trouble shall be their portion;
 and with terror and great fear shall they inherit their possessions;
 and poverty and distress shall be their garments, by reason of the drought,
-scarcity and famine, that shall be In their inheritance.
+scarcity and famine, that shall be in their inheritance.
 But with the righteous and them that fear the Lord it
 shall not be so;--for the Lord is their shepherd,
 and they shall not lack any good thing;--they shall eat
@@ -326,7 +329,7 @@ Then will you see your Deliverer come forth of Zion, who purchased your redempti
 and will make you free from that which has held you in captivity and bondage:
 then shall you return unto Zion with the ransomed of the Lord,
 with everlasting joy upon your heads,--being made inheritors
-amongst them that are sanctified and crowned with victory.
+among them that are sanctified and crowned with victory.
 
 So, the everlasting powerful God, who is strong and mighty, bless, preserve,
 and keep you;--that you may multiply, increase, and prosper,
@@ -334,9 +337,13 @@ and bring forth some a hundred, some sixty, some thirty fold,
 to the praise and glory of our God--to whose custody and protection I commend you:
 his grace and peace be with you forever and ever, amen.
 
+[.signed-section-closing]
 Your dear brother in the living truth,
 
+[.signed-section-signature]
 William Caton.
+
+--
 
 When I had stayed there for the most part of seven weeks, I left Friends for a season,
 having had very good service, not only at meetings, or the like,

@@ -1,8 +1,9 @@
-== Chapter XII.
+== Chapter XII
 
-1659--He proceeds by sea to Sunderland,
-and passes westward to Swarthmore--His services in Cumberland--Travels to Edinburgh,
-Leith, and other parts, and returns to Swarthmore.
+[.chapter-synopsis]
+* 1659--He proceeds by sea to Sunderland, and passes westward to Swarthmore
+* His services in Cumberland
+* Travels to Edinburgh, Leith, and other parts, and returns to Swarthmore.
 
 Being landed so far to the northward as Yarmouth,
 I determined to go from there by shipping; which accordingly I did,
@@ -14,7 +15,7 @@ where there were abundance of Friends and others;
 and the power and presence of the Lord was with us,
 through which we were much refreshed together.
 
-After that meeting I visited many Friends in the bishoprick,
+After that meeting I visited many Friends in the region,
 and in a short time after passed westwards towards Lancashire through Westmoreland,
 visiting Friends in my journey, as my manner was.
 I got well to Swarthmore, where I was received in the same ancient and entire love,
@@ -52,12 +53,12 @@ committing one another to the protection and custody of the Almighty;
 and afterwards I and another Friend travelled towards Edinburgh,
 where through the mercy of God we arrived, after some hard travel.
 
-The next day after our arrival, we went to a general meeting at Lythgoe, +++[+++Linlithgow]
+The next day after our arrival, we went to a general meeting at Lythgoe, +++[+++Linlithgow+++]+++
 about twelve miles from Edinburgh;
 where we found Friends at their meeting by the highway side,
 to which many people resorted, and good service we had at it.
 Howbeit the people of the town were so incensed against us,
-that we could scarcely get any entertainment among them for our money;
+that we could scarcely get any provisions among them for our money;
 but the wife of the governor of the castle being at the meeting,
 her heart was opened and filled with love towards us and the truth,
 and she constrained us to turn in and take up our lodging in the castle;
@@ -71,9 +72,14 @@ and was constrained to deliver my message or to make known my business to his se
 which he promised to communicate to his master,
 whereupon I came to be pretty well discharged.
 
+[.offset]
 +++[+++The following letter is from the Swarthmore Collection: Thomas Willan, it appears,
 was a Friend of Kendal.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 To Thomas Willan,
 
 My dear friend,--Such is my love to you and to Friends,
@@ -90,7 +96,7 @@ by which I was brought well through the country, to the city of Edinburgh,
 the place towards which I was most pressed to hasten.
 Staying one night in the city, I passed on twelve miles the day following;
 when I met with several Friends to our refreshment in the Lord.
-And having had two meetings together in that town of Lythgoe, +++[+++Linlithgow]
+And having had two meetings together in that town of Lythgoe, +++[+++Linlithgow+++]+++
 where the governor`'s wife of the castle is a Friend, we,
 or some of us returned to this place; where sometimes the meetings are held,
 and sometimes at the city of Edinburgh.
@@ -105,14 +111,13 @@ this being not only a time of trial to them,
 but to many men who are exceedingly jealous one of another.
 This is a day wherein many are offended,
 and because of the treacherousness and falsehood that one man beholds in another,
-there is great hatred and emulation amongst men; insomuch that father is against son,
+there is great hatred and emulation among men; insomuch that father is against son,
 and son against father, one brother against another, one family against another,
 and one nation rising against another.
 What shall we say to these things?
 Is it not the Lord`'s doing, thus to dash one potsherd against another,
-that he alone may reign, whose right it is?
-who is now arising in his mighty power, to break his enemies to pieces,
-like a potter`'s vessel.
+that he alone may reign, whose right it is?--who is now arising in his mighty power,
+to break his enemies to pieces, like a potter`'s vessel.
 
 I have sometimes since my coming here endeavored to speak with General Monk,
 but could not have access to him; so the substance of that which was upon me,
@@ -123,9 +128,9 @@ which he said he would do.
 He with several others who were present with me,
 were pretty moderate and civil towards me.
 Friends here with others were very desirous that it should be printed,
-but it could not be got done here; and therefore,
-it is sent to Newcastle in order to be printed; and if it be,
-it is like that you with Friends may see it.
+but it could not be done here; and therefore,
+it is sent to Newcastle in order to be printed; and when it is,
+it is likely that you with Friends may see it.
 I purpose shortly, God willing, to pass westward, and after I have visited Friends there,
 I know not to the contrary but I may return for England.
 For the present, the door which has been opened seems to be shut in this nation;
@@ -137,7 +142,7 @@ For a further account I refer you to the bearer hereof, George Collison.
 
 Salute me very dearly to Friends that inquire of me,
 and let them know that I am well at the writing hereof, praised be the Lord!
-Many things I might write of, but not knowing in whose hands this may come,^
+Many things I might write of, but not knowing in whose hands this may come,
 footnote:[This surmise seems to have been realized;
 for by a few lines written by the said George Collison, at Carlisle,
 on the back of the original letter, he states, that when he came near that city,
@@ -145,9 +150,15 @@ he was stopped by two troopers, who asked him if he had any letters;
 on his informing them he had one, they took him before the governor.
 It seems that great eagerness for information on the state of Scotland then prevailed,
 that nation being reported by the writer to be at this period "`in a mighty uproar.`"]
-shall therefore be sparing; and remain my dear friend and brother in the pure truth,
+shall therefore be sparing; and remain your dear friend and brother in the pure truth,
 
-William Caton Leith, near Edinburgh, 14th of Ninth month, 1659.]
+[.signed-section-signature]
+William Caton Leith,
+
+[.signed-section-context-close]
+near Edinburgh, 14th of Ninth month, 1659.]
+
+--
 
 Afterwards it was upon me to visit Friends in the west of that nation, which I did,
 to the confirming and establishing of them in the eternal truth;
@@ -161,6 +172,7 @@ and with some difficulty, it being in the winter season and very tempestuous wea
 I got back again into Lancashire, and so to Swarthmore,
 which was always a place of refreshment to me.
 
+[.offset]
 +++[+++Editor`'s Note: About this time William Caton wrote a letter to George Fox,
 dated from Swarthmore, 20th of Tenth month, 1659, from which the following is extracted.
 After describing his service at Edinburgh, etc., he adds,
@@ -169,4 +181,4 @@ bustlings and stirs that were among the children of this world,
 that there was scarcely any room at all for the truth in them.
 When I returned for England, I left Stephen Crisp in the west among Friends,
 who is a pretty wise man that came from Colchester;
-and he was determined to stay some time in that nation.`"-- Swarthmore Collection.]
+and he was determined to stay some time in that nation.`"-- Swarthmore Collection.+++]+++

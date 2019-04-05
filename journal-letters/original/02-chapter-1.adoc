@@ -1,8 +1,9 @@
-== The Life of William Caton.Chapter I.
+== The Life of William Caton. Chapter I.
 
-The infinite mercy of the Lord God to him from his very
-infancy--How it was with him in the days of his youth--
-His introduction into Judge Fell`'s family at Swarthmore.
+[.chapter-synopsis]
+* The infinite mercy of the Lord God to him from his very infancy
+* How it was with him in the days of his youth
+* His introduction into Judge Fell`'s family at Swarthmore.
 
 The God of my salvation hath been pleased of his infinite love,
 to show mercy unto me from my very infancy unto this present day,
@@ -23,7 +24,7 @@ When I was a child I was nurtured and tutored
 with such fatherly care and motherly affection,
 as my parents at that day were endued with.
 While I was yet very young, my heart was inclining to wisdom and understanding:
-and being inspired with a divine principle, +++[+++the Holy Spirit]
+and being inspired with a divine principle, +++[+++the Holy Spirit+++]+++
 I did in those days sometimes feel the power of it overcoming my heart,
 and begetting tenderness in it towards my Creator,
 when I have stood musing upon his handiwork: and through this divine principle,
@@ -34,7 +35,7 @@ which now I know right well, came through the aforesaid divine principle,
 I had also a fear upon me of reproof and chastisement from my parents,
 who according to their knowledge endeavoured to educate me in virtue and godliness;
 and therefore instructed me to pray morning and evening, to read often,
-and to go frequently to hear that which they called the Word of God.
+and to go frequently to hear that which they called the _Word of God_.
 Great was their care to bring me up in the fear of the Lord,
 according to their ability and understanding, as also in good fashion, as they called it,
 in the world;
@@ -84,4 +85,4 @@ and paraphrase thereupon, were held in esteem:
 therefore I endeavoured much to retain the heads thereof,
 but when my memory would not serve me to do as some did in that particular,
 I used myself to write much after the priests: but that which I reaped thereby,
-could not give satisfaction to my soul, which at times hungered much after the Lord,
+could not give satisfaction to my soul, which at times hungered much after the Lord.

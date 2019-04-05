@@ -1,14 +1,17 @@
 == Chapter XIV.
 
-1660--He leaves Dover for Holland--His service in several cities and places--
-Returns to London (1661,) but soon after revisits Holland--He travels with William
-Ames into Germany--At Heidleherg is courteously treated by the Prince Palatine.
+[.chapter-synopsis]
+* 1660--He leaves Dover for Holland
+* His service in several cities and places
+* Returns to London (1661,) but soon after revisits Holland
+* He travels with William Ames into Germany
+* At Heidleherg is courteously treated by the Prince Palatine.
 
 About this time I passed towards Dover, where I took shipping for Zealand,
 to go for Holland; and after some hardship sustained at sea,
 by reason of tempestuous weather and contrary winds,
 through the providence of the Lord I got to Flushing, where I stayed but little,
-and passed for Middieburgh,
+and passed for Middleburgh,
 where I visited the very few Friends that there were in the city;
 and afterwards I went to Treveare,
 where I found a vessel almost ready to sail for Dort in Holland.
@@ -90,9 +93,14 @@ where we were received with joy and gladness by Friends,
 who rejoiced with us in the good service which we had had;
 and blessed be the Lord for our preservation.
 
+[.offset]
 +++[+++From this city William Caton addressed a letter to Friends in England,
-(as is supposed,) from which the following extracts are selected.]
+(as is supposed,) from which the following extracts are selected.+++]+++
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 O! My beloved friends,
 
 It is delightful to me to meditate upon the Lord`'s love to you,
@@ -129,12 +137,18 @@ in whom he has chosen in these latter days to manifest his power and glory,
 to the families of the earth,
 whose glory and dignity must be stained and brought to nothing.
 
+--
+
+[.offset]
 +++[+++He then proceeds to give a similar narrative of his labours in Friesland, etc.,
 though somewhat more minute than given at this place in the Journal.
-He afterwards adds;]
+He afterwards adds;+++]+++
+
+[.embedded-content-document.letter]
+--
 
 The sudden and violent storm which ye have had in England,^
-footnote:[See the Histories of England concerning the
+footnote:[See the [.book-title]#Histories of England# concerning the
 troubles consequent upon the return of Charles II.]
 hath also stirred the waters very much here, so that they rage and swell,
 as if they would prevail beyond the bounds which are set for them.
@@ -184,7 +198,13 @@ and commit you unto Him,
 who is of power to establish all your hearts in the living Truth, in which I remain,
 your dear brother in the fellowship of sufferings, in the gospel of peace,
 
-William Caton.Amsterdam, 25th of Eleventh month, 1660.
+[.signed-section-signature]
+William Caton.
+
+[.signed-section-context-close]
+Amsterdam, 25th of Eleventh month, 1660.
+
+--
 
 I continued several months in Holland, where I had very good service,
 sometimes at Atkmore, sometimes at Haarlem, sometimes at Leyden, sometimes at Rotterdam,
@@ -217,8 +237,7 @@ We then went to Harwich, from whence we passed over to Holland again,
 and had a prosperous and successful journey of it, blessed be the Lord,
 which tended much to our encouragement.
 
-At that time I had in hand the book, called.
-An Abridgement,^
+At that time I had in hand the book called [.book-title]#An Abridgement#,^
 footnote:[An Abridgement or Compendious Commemoration
 of the remarkablest Chronologies which are contained in
 that celebrated Ecclesiastical History of Eusebius,
@@ -304,7 +323,7 @@ to take care that the rude multitude did not abuse Friends.
 
 After we had been with him,
 we took leave of each other in the endearedness of our Father`'s love,
-and he +++[+++William Ames]
+and he +++[+++William Ames+++]+++
 went for Holland, and I returned to Kriesheim again;
 there I stayed with Friends some time, and afterwards went to Heidleberg again,
 for I was not clear of that city.

@@ -1,11 +1,15 @@
-== Chapter XI.
+== Chapter XI
 
-1653--Travels to London--His labors in Kent, Sussex, etc.--Proceeds to Bristol,
-and returns to London--Attends a General Meeting of ministering Friends at the Bull
-and Mouth (1659)--Sails again to Holland and returns--Dangers on his voyage back.
+[.chapter-synopsis]
+* 1653--Travels to London
+* His labors in Kent, Sussex, etc.
+* Proceeds to Bristol, and returns to London
+* Attends a General Meeting of ministering Friends at the Bull and Mouth (1659)
+* Sails again to Holland and returns
+* Dangers on his voyage back.
 
 About the latter end of the Sixth month, 1658,
-I took my leave of that honorable family +++[+++at Swarthmore]
+I took my leave of that honorable family +++[+++at Swarthmore+++]+++
 and of Friends thereabouts, and set my face southwards again,
 visiting Friends in some part of Lancashire, and especially in Cheshire,
 where I stayed about a week or more,
@@ -19,9 +23,10 @@ and even fulness to me out of the everlasting treasury, which,
 through him that strengthened me,
 I freely communicated to them whose souls were breathing after the Lord.
 
-Extract from a letter dated London, 13th of Seventh month, 1658,
++++[+++Extract from a letter dated London, 13th of Seventh month, 1658, to Margaret Fell.
 
-To Margaret Fell.
+[.embedded-content-document.letter]
+--
 
 I came into the city, and my soul has been much refreshed among the brethren.
 Here is a mighty door open at present in this city; and Friends are generally fresh,
@@ -40,7 +45,9 @@ who were generally very moderate and open to receive the truth.
 
 After that meeting was ended, I returned again into the city to another meeting,
 where the power and presence of the Lord was made manifest to the
-great refreshment of the most part of the Friends then assembled.
+great refreshment of the most part of the Friends then assembled.+++]+++
+
+--
 
 Returning to Journal:
 
@@ -53,7 +60,7 @@ and for gathering in of others, who were hungering and desiring after the truth.
 
 I went out of that county into Sussex, where I also visited Friends,
 and had several precious meetings among them;
-and travelled along pretty near to the sea-coast, so far as Southampton,
+and travelled along pretty near to the sea coast, so far as Southampton,
 where I had also good service among Friends;
 and after we had been plenteously refreshed together,
 I took my leave of them as in other places, and visited Friends at Winchester,
@@ -91,7 +98,7 @@ where especially there was an effectual door open:
 and oftentimes in great service for the Lord I was exercised both day and night,
 in which the Lord made my cup to overflow.
 
-At the time called Easter, +++[+++1659,]
+At the time called Easter, +++[+++1659,+++]+++
 there was a general meeting appointed, especially for the ministering brethren,
 who resorted to it from several parts of the nation,
 which was held at the Bull and Mouth, near Aldersgate in London,
@@ -109,7 +116,7 @@ praised and magnified the God of our salvation; and in a few days after.
 Friends departed out of the city again,
 the end being fully answered for which they came together.
 
-About that time it was upon me to go +++[+++again]
+About that time it was upon me to go +++[+++again+++]+++
 for Holland, and I took my leave of Friends and brethren in London,
 and in much brokenness of heart, love and unity, we parted.
 I took my journey towards Colchester, there to take shipping, which accordingly I did,
@@ -150,7 +157,7 @@ and who walked in his eternal truth: and having gotten their language,
 and being able to minister in it,
 I could much better free myself of the weights and burdens than before.
 When I had stayed about two months,
-and seeing things in a pretty good posture as to the truth.
+and seeing things in a pretty good posture as to the truth,
 Friends well settled, and their meetings kept in good order,
 it was upon me again to return for England, where there was such an effectual door open.
 I took my leave of Friends in Holland,

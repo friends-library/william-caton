@@ -1,14 +1,17 @@
-== Chapter XIV.
+== Chapter XIV
 
-1660--He leaves Dover for Holland--His service in several cities and places--
-Returns to London (1661) but soon after revisits Holland--He travels with William
-Ames into Germany--At Heidleherg is courteously treated by the Prince Palatine.
+[.chapter-synopsis]
+* 1660--He leaves Dover for Holland
+* His service in several cities and places
+* Returns to London (1661) but soon after revisits Holland
+* He travels with William Ames into Germany
+* At Heidleherg is courteously treated by the Prince Palatine.
 
 About this time I passed towards Dover, where I took shipping for Zealand,
 to go for Holland; and after some hardship sustained at sea,
 by reason of tempestuous weather and contrary winds,
 through the providence of the Lord I got to Flushing, where I stayed but little,
-and passed for Middieburgh,
+and passed for Middleburgh,
 where I visited the very few Friends that there were in the city;
 and afterwards I went to Treveare,
 where I found a vessel almost ready to sail for Dort in Holland.
@@ -41,7 +44,7 @@ to go into Friesland, which we did;
 and in due time through mercy we arrived well upon a first-day in the morning,
 at a place called Dockham, where we went into the meeting of the Baptists, so called,
 which was very large.
-When he that spoke had done,
+When he that spoke was done,
 I stood up and began to declare the everlasting truth in their own language.
 They were much divided among themselves, for some would gladly have heard me,
 others would not allow me; but one of the chiefest of their teachers was very moderate,
@@ -69,7 +72,7 @@ where there were also many of the aforesaid Baptists,
 and we were entertained by an old man, who had been a preacher among them for many years.
 
 When first-day came, it was upon us to go to their place of worship, which we did;
-and waited until he that was speaking had done: afterwards I began to speak,
+and waited until he that was speaking was done: afterwards I began to speak,
 but he would not allow me, (that is,
 he that had preached,) but became presently very angry,
 though the people would gladly have heard me; but he would not permit them;
@@ -89,9 +92,14 @@ where we were received with joy and gladness by Friends,
 who rejoiced with us in the good service which we had had;
 and blessed be the Lord for our preservation.
 
+[.offset]
 +++[+++From this city William Caton addressed a letter to Friends in England,
-(as is supposed,) from which the following extracts are selected.]
+(as is supposed,) from which the following extracts are selected.+++]+++
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 O! My beloved friends,
 
 It is delightful to me to meditate upon the Lord`'s love to you,
@@ -101,7 +109,7 @@ wherein I have daily communion with you, though I am necessitated,
 for the scattered seed`'s sake, to be much as without the camp,
 where the reproach is borne, with many weights and burdens,
 by reason of which my soul is sometimes bowed down.
-Yet, O! my friends, I share with you of that joy and peace, love and life,
+Yet, O! My friends, I share with you of that joy and peace, love and life,
 which abound in your tents;
 and therein can I rejoice with you in the midst of our trials and sufferings,
 though as to the outward I am far separate from you.
@@ -118,22 +126,23 @@ or we will not allow any of His messengers and servants to dwell among us,
 but we will imprison them, and put them to death,`' etc.
 Thus the Lord may permit them to do,
 until they have filled up the measure of their iniquities, as the Amorites did;
-and then shall his iron rod be stretched over them,
+and then shall His iron rod be stretched over them,
 by which they shall be broken to pieces like a potter`'s vessel, who have abhorred Him,
 and hated Him without a cause; but in that day will he spare you,
-who have followed Him through great tribulation.-- In the meantime, O! beloved,
+who have followed Him through great tribulation.-- In the meantime, O! Beloved,
 he will try your faith and patience; but be you not therefore troubled,
 for he knows what is good for you,
 in whom he has chosen in these latter days to manifest his power and glory,
 to the families of the earth,
 whose glory and dignity must be stained and brought to nothing.
 
+[.offset]
 +++[+++He then proceeds to give a similar narrative of his labors in Friesland, etc.,
 though somewhat more minute than given at this place in the Journal.
-He afterwards adds;]
+He afterwards adds;+++]+++
 
 The sudden and violent storm which you have had in England,^
-footnote:[See the Histories of England concerning the
+footnote:[See the [.book-title]#Histories of England# concerning the
 troubles consequent upon the return of Charles II.]
 has also stirred the waters very much here, so that they rage and swell,
 as if they would prevail beyond the bounds which are set for them.
@@ -154,7 +163,7 @@ that we are here daily in as great jeopardy as they in England,
 that are not yet cast into prison.
 The last first-day there were some very wicked men at our meeting,
 who were exceedingly desperate and violent;
-but blessed be the Lord! they were not permitted to do much harm,
+but blessed be the Lord! They were not permitted to do much harm,
 and that which they did, was more to the house, than to Friends,
 who are given up to the will of the Lord, as well to suffer with you for the Truth,
 as to rejoice with you in the Truth.
@@ -167,13 +176,13 @@ good will be brought forth by them to some, and these things shall not be in vai
 for it appears to me that they work together for the hastening of that work,
 which the Lord is determined to cut short in righteousness for the elect`'s sake.
 Therefore, let that reasoning part be kept under, that would say,
-this would hinder the work: for who are you to reason with the Lord! is not the work his?
+this would hinder the work: for who are you to reason with the Lord! Is not the work his?
 And do you know better than he, what would be for the furtherance of it?
 If not, be still, patient, and content; and let him work for his Truth with us,
 or without us, according to the good pleasure of his Will; who has all power in his hand;
 and this is he in whom we have believed, who commands the winds and the seas to be still,
 and they obey him; have we not seen it, and are not we his witnesses?
-if so, let us be patient a little, and we shall see the Lord work wonderfully.
+If so, let us be patient a little, and we shall see the Lord work wonderfully.
 
 Though I have written thus largely to you at present,
 yet my heart is as full of love as it was when I began to set pen to paper:
@@ -182,7 +191,13 @@ and commit you unto Him,
 who is of power to establish all your hearts in the living Truth, in which I remain,
 your dear brother in the fellowship of sufferings, in the gospel of peace,
 
-William Caton.Amsterdam, 25th of Eleventh month, 1660.
+[.signed-section-signature]
+William Caton.
+
+[.signed-section-context-close]
+Amsterdam, 25th of Eleventh month, 1660.
+
+--
 
 I continued several months in Holland, where I had very good service,
 sometimes at Atkmore, sometimes at Haarlem, sometimes at Leyden, sometimes at Rotterdam,
@@ -205,7 +220,7 @@ and so to London; where I was at several precious meetings,
 and was more than a little refreshed with the brethren, not only at London,
 but also at Kingston.
 But being pretty much pressed in spirit to return for Holland again,
-where there was some needful service for me, which required my hasting,
+where there was some needful service for me, which required my haste,
 I took my leave of Friends and brethren, in much love and unity at London,
 with whom my refreshment at that time was so great,
 that the remembrance of it afterwards was a great comfort to me.
@@ -215,14 +230,10 @@ We then went to Harwich, from which we passed over to Holland again,
 and had a prosperous and successful journey of it, blessed be the Lord,
 which tended much to our encouragement.
 
-At that time I had in hand the book, called.
-An Abridgement,^
-footnote:[An Abridgement or Compendious Commemoration of the
-remarkablest Chronologies which are contained in that
-celebrated Ecclesiastical History of Eusebius,`" etc.,
-1661.
-Reprinted 1689.
-Whiting`'s Catalogue.]
+At that time I had in hand the book called [.book-title]#An Abridgement#,^
+footnote:[An Abridgement or Compendious Commemoration of the remarkablest Chronologies
+which are contained in that celebrated Ecclesiastical History of Eusebius,`" etc., 1661.
+Reprinted 1689. Whiting`'s Catalogue.]
 which I printed at Rotterdam; and after I had finished it,
 I visited Friends in most places of that country,
 and had several good meetings among them, to their and my refreshment in the Lord.
@@ -285,7 +296,7 @@ who had suffered by the priests about their tithe in his dominions.
 After we had spent some hours with him that day, we returned to our lodging again.
 
 About that time we were very busy in answering several books
-that were extant in High Dutch against the truth and Friends;
+that were still in existence in High Dutch against the truth and Friends;
 the answers to which we intended to have printed here,
 but the printers fearing the reproof of the clergy,
 dared not print them for us in this city.
@@ -302,7 +313,7 @@ to take care that the rude multitude did not abuse Friends.
 
 After we had been with him,
 we took leave of each other in the endearedness of our Father`'s love,
-and he +++[+++William Ames]
+and he +++[+++William Ames+++]+++
 went for Holland, and I returned to Kriesheim again;
 there I stayed with Friends some time, and afterwards went to Heidleberg again,
 for I was not clear of that city.
