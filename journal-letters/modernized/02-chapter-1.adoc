@@ -1,9 +1,9 @@
 == Life of William Caton. Chapter I
 
-[.chapter-subtitle--blurb]
-The infinite mercy of the Lord God to him from his very
-infancy--How it was with him in the days of his youth--
-His introduction into Judge Fell`'s family at Swarthmore.
+[.chapter-synopsis]
+* The infinite mercy of the Lord God to him from his very infancy
+* How it was with him in the days of his youth
+* His introduction into Judge Fell`'s family at Swarthmore.
 
 The God of my salvation has been pleased of his infinite love,
 to show mercy unto me from my very infancy unto this present day,
