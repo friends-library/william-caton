@@ -1,7 +1,7 @@
 == Chapter II.
 
 [.chapter-synopsis]
-* 1652--George Fox`'s first visit to Swarthmore
+* 1652+++.+++ George Fox`'s first visit to Swarthmore
 * The tendency of his doctrine
 * William Caton leaves school and becomes an inmate in the Fell family, as teacher and writer
 * The divine love and refreshment prevalent amongst them
