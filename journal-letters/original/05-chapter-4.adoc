@@ -1,8 +1,12 @@
 == Chapter IV.
 
-1655--He travels with John Stubbs into Kent; they reach Dover,
-are haled before the Magistrates--Luke Howard--His boldness in their service--They
-proceed to Hythe and other places--Are cruelly treated at Maidstone.
+[.chapter-synopsis]
+* 1655--He travels with John Stubbs into Kent
+* They reach Dover, are haled before the Magistrates
+* Luke Howard
+* His boldness in their service
+* They proceed to Hythe and other places
+* Are cruelly treated at Maidstone.
 
 We stayed some time after this in the city, where we had good service for the Lord;
 and afterwards it was upon us to go into Kent towards Dover, which accordingly we did,
@@ -48,6 +52,7 @@ and had afterwards a meeting or meetings in his house;
 and several at that time came to be convinced of the truth,
 whom we commended to the grace of God and left them.
 
+[.offset]
 +++[+++Editor`'s Note: The following account is given by Luke Howard in his Journal,
 of his first meeting with William Caton, and of his visit to Dover.
 After describing the bewildered state of his own mind,
@@ -66,6 +71,7 @@ or more than I or he either can live in;`' thus
 making myself a judge of his life and doctrine,
 which I knew not: and so I turned my back upon the truth, as too many do.
 
+[.offset]
 The after part of the day we spent our time in walking in the fields;
 and the week following I got home.
 The next first-day afterwards, one meets me in the street,
@@ -84,6 +90,7 @@ who had been at the other steeple-house.
 I believe the Lord stirred me in my mind to go to see them.
 I found them eating a little bread with beer, without anything to sweeten or relish it.
 
+[.offset]
 So I asked them to go out with me;
 and we went to a professor`'s (Baptist,) who conversed with them much,
 and agreed to have a meeting the next day in the Baptist`'s meeting-house,
@@ -92,15 +99,17 @@ as wonderers and gazers, and some to oppose.
 Then the rulers of the town sent to the innkeeper to turn them out of his house,
 or else they would pluck down his sign.
 
+[.offset]
 So the innkeeper spoke to me, because he saw that I most took their parts,
 and desired me to tell them, which I did: but I also said to John and William,
-'`go home to my house, for I care not for the rulers or mayor either.`'
+'`Go home to my house, for I care not for the rulers or mayor either.`'
 So they went with me, and the fifth-day following we had a great meeting at my house:
 and their testimony was to me as John the Baptist`'s was to Herod, who heard him gladly,
 and as Paul`'s was to Agrippa, who was almost persuaded to be a Christian.
 I was convinced in my judgment, and their testimony was to me as a pleasant song:
 so the meeting ended, and all passed away in quiet.
 
+[.offset]
 He then describes his refusing to give up these Friends,
 when applied to by the constables sent to his house by the mayor, etc.
 "`The next day at my house again, we had a good and blessed meeting I may say;
@@ -119,7 +128,7 @@ and they took in writing the names of some towns and men along
 the sea-coast:--and all whose names I gave received them;
 at which time Samuel Fisher was one.
 After I left them, my sorrow was great, and my tears many;
-so that I had much ado to get and keep my eyes dry, when I came back to Dover.`"]
+so that I had much ado to get and keep my eyes dry, when I came back to Dover.`"+++]+++
 
 [.asterism]
 '''
@@ -128,10 +137,15 @@ so that I had much ado to get and keep my eyes dry, when I came back to Dover.`"
 found in a valuable private collection of letters formerly from Swarthmore,
 may also be interesting to the reader.
 It is addressed "`For his dearly beloved friends Francis Howgill or Edward Burrough,
-at Justice Hubbert`'s house, in Moorfields, London.`"
+at Justice Hubbert`'s house, in Moorfields, London.`"+++]+++
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Stubbs and William Caton to Francis Howgill and Edward Burrough
 
+[.salutation]
 Dear hearts, Francis and Edward,
 
 We came into Dover upon the seventh-day in the last week, being the market-day,
@@ -186,15 +200,23 @@ to be conveyed to us.
 The post-master is loving towards us, but we are at an inn in the town,
 where many are free to come to see us.
 So our dear love to all our dear friends with you.
+
+[.signed-section-closing]
 We remain your brethren, etc.
 
-John Stubbs, William CatonDover, 19th of First month, 1654
+[.signed-section-signature]
+John Stubbs, William Caton
+
+[.signed-section-context-close]
+Dover, 19th of First month, 1654
 
 We would have you to show this to George (doubtless George Fox).
 
-Returning to the William Caton`'s journal:
+--
 
-After that we went thence to a town called Foulstone +++[+++Folkestone,]
+Returning to William Caton`'s journal:
+
+After that we went thence to a town called Foulstone +++[+++Folkestone,+++]+++
 where we were kindly received by Thomas Nichols,
 his wife and others,--and some good meetings we had there;
 the priest of the town and many others being present at some of them:
@@ -207,7 +229,7 @@ but some that were simple and moderate were troubled thereat.
 
 When we were pretty clear of that town, we travelled towards Hythe,
 and in our way thither we went into a castle which stood by the sea-side,
-+++[+++Sandgate Castle,]
++++[+++Sandgate Castle,+++]+++
 where we were kindly received both by the captain and his wife.
 We had a meeting or two among the soldiers and others,
 and after that we went to the aforesaid Hythe.
@@ -272,6 +294,7 @@ to the end that they might enjoy the substance of what they had professed.
 Accordingly meetings came to be settled in most of the places before mentioned,
 which they that were convinced kept up after our departure.
 
+[.offset]
 +++[+++Editor`'s Note:
 Dover Friends were among the first that set this
 noble example of gathering in the name of Him,
@@ -328,8 +351,12 @@ many in the town began to be offended at their cruelty, which they manifested to
 And when they, who sought to bow us to their wills, were made to bow by the power of God,
 we were free to receive victuals for our money, and did eat and were refreshed.
 
+[.offset]
 +++[+++Editor`'s Note: The following particulars, in addition to those given above,
 are obtained from some early records of Friends of East Kent.
+
+[.embedded-content-document.minutes]
+--
 
 "`William Caton being brought before the magistrate, was examined where he dwelt,
 and how long it was since he came from his outward being, and what way he came;
@@ -362,7 +389,9 @@ and been whipped: we did not deal so badly with them here.`'
 '`No,`' said Luke Howard, '`but you dealt with them worse than you should.`'
 So in a little time came William Caton and John Stubbs again to Dover, where they,
 with Friends, enjoyed their meetings peaceably:
-many being convinced.`"--Manuscript of Friends of East Kent.]
+many being convinced.`" --Manuscript of Friends of East Kent.+++]+++
+
+--
 
 Returning to journal:
 
