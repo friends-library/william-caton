@@ -1,7 +1,9 @@
-== Chapter VIII.
+== Chapter VIII
 
-He returns to Bristol,
-and travels eastward into Kent--Remarks on the exercise of his gift--Reaches London.
+[.chapter-synopsis]
+* He returns to Bristol, and travels eastward into Kent
+* Remarks on the exercise of his gift
+* Reaches London.
 
 About the latter end of the fifth month, or the beginning of the sixth, 1656,
 I was at Plymouth, where I visited Friends; and after I had had a meeting among them,
@@ -28,10 +30,10 @@ countryman that would trouble himself no further with me,
 but gave me the pass, and let me depart in peace.
 
 I got well to Taunton in Somersetshire, where I visited Friends,
-as elsewhere in the aforesaid shire; and in due time I got to Bristol,
+as elsewhere in the aforesaid county; and in due time I got to Bristol,
 where I found several of the brethren, as Francis Howgill, John Audland, etc.,
 with whom I was more than a little comforted; for the Lord`'s presence was with us,
-and his heavenly power was amongst us,
+and his heavenly power was among us,
 so that we were not only a refreshment one unto another in the Lord,
 but many were refreshed through us, and we all in the Lord,
 whom our souls did magnify and praise.
@@ -74,7 +76,7 @@ For the Lord showed me by his eternal light,
 at a time when I was even bemoaning my own weakness,
 and groaning under the sense of the weight of the service and work of the Lord;
 saying or thinking within myself,
-Oh! such and such (meaning the ablest and wisest
+Oh! Such and such (meaning the ablest and wisest
 of the brethren) are so fitted and furnished,
 that they need not care what service they are called unto,--but as for me,
 I am so simple,--I am so weak,--and I never have
@@ -93,7 +95,7 @@ for though I was often in the state that I knew
 not what I should say when I went into a meeting,
 yet even in such a meeting, has the Lord been pleased to give me his word so plentifully,
 that through him I was enabled to speak two or three, yes,
-sometimes lour hours in a meeting with little or no intermission.
+sometimes four hours in a meeting with little or no intermission.
 And often it has been with me,
 that as I knew not before the meeting what I should speak in the meeting,
 so neither could I well remember after the meeting what I had spoken in it;
