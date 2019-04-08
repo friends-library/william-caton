@@ -1,8 +1,12 @@
-== Chapter V.
+== Chapter V
 
-1655--He visits Calais in France--Returns to Dover--Travels to Yarmouth,
-and afterwards into the North--With John Stubbs sails to
-Holland--Their labors in that country--Returns to England.
+[.chapter-synopsis]
+* 1655--He visits Calais in France
+* Returns to Dover
+* Travels to Yarmouth and afterwards into the North
+* With John Stubbs sails to Holland
+* Their labors in that country
+* Returns to England.
 
 Upon the 12th of the fourth month, 1655, it was upon me to go over to Calais, in France,
 which accordingly I did from Dover.
@@ -19,7 +23,7 @@ it came to be known to some of the chief of the city, who desired to see me,
 and to speak with me, and some of them came down in person to the dock to look for me,
 and understanding I was aboard, I was called ashore,
 and was afterwards conveyed through private places, for fear of the rude multitude,
-as he told me that was appointed to convey me, to a great house,
+as he told me, that was appointed to convey me to a great house,
 where several of the great ones were gathered together, to see me, hear me,
 and to speak with me,
 so that I had a very good opportunity to declare the truth among them.
@@ -66,7 +70,7 @@ When we came into the north,
 I had much desire in me to go to see my dear and near
 relations in the Lord at Swarthmore and thereabouts,
 and Providence did so order it that I had an opportunity.
-Oh! the refreshment which we had at our meeting, and during the time I stayed among them,
+Oh!--the refreshment which we had at our meeting, and during the time I stayed among them,
 it would be hard for me to declare it to the utmost.
 Dear Margaret Fell, who had been as a tender-hearted, nursing mother to me,
 was refreshed to hear how the Lord had been with me, how he had blessed my labors,
@@ -79,7 +83,7 @@ it was upon me to return again,
 to endeavor to accomplish the aforesaid journey to Holland;
 and when the time of my departure was come,
 I took my leave of them with much brokenness of heart, in which I also left them;
-and visiting other Friends, I returned again into the bishoprick,
+and visiting other Friends, I returned again into the province,
 where I had left my dear companion.
 Afterwards we had some precious meetings in those parts,
 which together with those we had had before, were of no small service:
@@ -162,7 +166,7 @@ in which we put our confidence.
 And when through mercy we were gotten well ashore,
 we went up into the country among Friends,
 with whom we were more than a little refreshed in the Lord.
-After I had had several meetings in the bishoprick +++[+++Durham,]
+After I had had several meetings in the province +++[+++Durham,+++]+++
 I went again into Lancashire, and coming to Swarthmore,
 I was received with joy again in the Lord, in whom our refreshment was great,
 and a very precious time we had afterwards together,
