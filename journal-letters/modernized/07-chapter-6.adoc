@@ -1,9 +1,9 @@
-== Chapter VI.
+== Chapter VI
 
-1655--Visits Scotland,
-passing through Northumberland--Has good service for the Lord
-at Edinburgh and Glasgow--Returns to Swarthmore,
-and proceeds to Cheshire.
+[.chapter-synopsis]
+* 1655--Visits Scotland, passing through Northumberland
+* Has good service for the Lord at Edinburgh and Glasgow
+* Returns to Swarthmore, and proceeds to Cheshire.
 
 It was not long after this, that I took my leave of that blessed family,
 for I was to go for Scotland, towards which nation we had felt some drawings,
@@ -11,13 +11,13 @@ before we were clear of that service beyond the sea.
 Having taken my leave in abundance of love of my dearly beloved friends at Swarthmore,
 I went through Westmoreland, and had some good meetings among Friends there,
 which were of good service.
-Upon the 12th of the ninth month, 1655, I went towards the bishoprick,
-in order to go into Scotland.
-When I came into the bishoprick, I met with my dear companion John Stubbs again;
+Upon the 12th of the ninth month, 1655, I went towards the territory under the
+church`'s jurisdiction, in order to go into Scotland.
+When I came there, I met with my dear companion John Stubbs again;
 and when we had visited the brethren and Friends in those parts,
 and had been truly refreshed together in the Lord,
 we went afterwards into Northumberland; in some parts of which we had very good service,
-especially in the country about Morpasse +++[+++Morpeth?]
+especially in the country about Morpasse +++[+++Morpeth?+++]+++
 
 About the beginning of the tenth month, 1655, we were at Berwick;
 and upon the market day, it was upon us to go into their market,
@@ -26,18 +26,18 @@ On first-day following, I was moved to go into their great assembly,
 where none of our Friends had been,
 but such as had been imprisoned and afterwards put out of the town.
 Nevertheless, I was not therefore to be discouraged,
-but went in boldly in the name and power of the Lord; and when the priest had done,
+but went in boldly in the name and power of the Lord; and when the priest was done,
 I stood up upon a stall, but none seemed to make such haste to get away as the priest;
 however, my mouth was opened in much power,
 and the Lord was pleased to give me courage and boldness,
 and indifferently good liberty I had to declare the truth.
-When I had done, the mayor met me at the door, and took me by the hand,
+When I was done, the mayor met me at the door, and took me by the hand,
 and delivered me to the sergeants;
 but afterwards I was brought before the mayor and magistrates,
 and further examined by them,
 who finally ordered that I should be turned out of the town, which also came to pass.
 In the afternoon I was at a steeple-house in the country, where I spoke to the priest;
-but he was Curious, and called me madman and bid the people have me to the stocks,
+but he was furious, and called me madman and bid the people have me to the stocks,
 and bind me hand and foot, with more such like expressions;
 but none of the people would obey him, but gathered generally about me,
 and were pretty willing to hear the truth declared, though they were a sottish,
@@ -106,14 +106,14 @@ and after that I went in peace to the meeting of Friends.
 I was also about that time with General Monk, so called, who was seemingly moderate,
 and did hear me, and received such papers from me as I had to deliver to him.
 I was also at Stirling; and at my going into the city, was carried to the main guard,
-and from there I was sent to the governor, who at first was high with me;
+and from there I was sent to the governor, who at first was sharp with me;
 but when I had spoken a little to him, and had given him something to read,
 he became more moderate.
 I went from his house to the English chaplain`'s,
 who was very moderate and kind in his way towards me.
 After I had had good service among them, I went to Glasgow, another great city;
 and it was upon me to go to their great cathedral,
-where three congregations did meet at once; and after they had all done,
+where three congregations did meet at once; and after they were all done,
 I had some liberty to speak to the multitude in the yard,
 for the rude people were kept very much under by the English soldiers,
 who were pretty moderate towards me, so that I had very good service in that city.
@@ -129,8 +129,8 @@ and at the places afore-mentioned, I was pretty free to return again to England,
 which I did.
 
 When I came back to England,
-I visited Friends both in Northumberland and in the bishoprick, +++[+++Durham]
-and had some good service among them, especially in the bishoprick;
+I visited Friends both in Northumberland and in Durham
+and had some good service among them, especially in Durham;
 and afterwards I visited Friends again in Westmoreland,
 and in due time got well back to Swarthmore, where I was received as formerly,
 even in the fulness of dear and precious love.
@@ -139,7 +139,8 @@ and therefore was our refreshment together again as it used to be, and I could t
 it was good to be there: but the Lord having much service for me abroad,
 I could not stay long before I was constrained to
 travel again in the work and service of the Lord,
-About the middle of the first month, anno 1656, it was upon me, and another dear brother,
+About the middle of the first month, in the year of the Lord 1656, it was upon me,
+and another dear brother,
 William Simpson, to go down into Lancashire and Cheshire, etc, to visit Friends,
 which accordingly we did.
 Many precious and serviceable meetings we had,
@@ -152,7 +153,7 @@ Afterwards I went to the meeting at Manchester,
 and my companion was moved to go to the steeple-house, but had little liberty to speak,
 for he was taken from there, and was turned out of the town,
 as he had been twice the day before: but that night he came in again,
-and we had a good meeting in the town, as I had had the night before at Stopard,
+and we had a good meeting in the town, as I had had the night before at Stopard.
 The next day many people followed us, through William`'s speaking, at the end of the town,
 and there I had a favorable opportunity to declare God`'s truth among them;
 which they heard with moderation and attention.
