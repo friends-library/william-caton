@@ -1,8 +1,10 @@
-== Chapter XIII.
+== Chapter XIII
 
-1659-60--His service in the South of Lancashire--Attends a
-general meeting at Balby in Yorkshire--Travels to London,
-also into Sussex, Kent, and so into Norfolk--Returns to London and proceeds to Dover.
+[.chapter-synopsis]
+* 1659-60--His service in the South of Lancashire
+* Attends a general meeting at Balby in Yorkshire
+* Travels to London, also into Sussex, Kent, and so into Norfolk
+* Returns to London and proceeds to Dover.
 
 When I had continued at Swarthmore some time,
 it was upon me to go into the south of Lancashire, to visit Friends and their meetings;
@@ -11,11 +13,11 @@ and had several good and serviceable meetings in
 several of the great towns in Lancashire,
 as at Garstang, Preston, Wigan, Liverpool, and Warrington, etc.
 
-Being al a meeting in Warrington, the 7th of the twelfth month, 1659,
+Being at a meeting in Warrington, the 7th of the twelfth month, 1659,
 there came several rude soldiers of the baser sort, who did much abuse Friends;
 and after they had done much violence to us, they broke up our meeting,
 and forced us out of the town: but we gathered together again,
-near to the town upon the road-side, and had a sweet and precious meeting.
+near to the town upon the roadside, and had a sweet and precious meeting.
 It was not long before the soldiers came there also,
 and as I was speaking they took me violently from among the rest, and beat me,
 some with their muskets, and others with their spears, in the sight of Friends,
@@ -23,7 +25,7 @@ to the breaking of the hearts of many.
 When they had satisfied their wills with abusing me,
 they allowed me to return into the meeting again,
 which afterwards we kept a certain time to our great refreshment in the Lord,
-whose power and presence did exceedingly appear amongst us;
+whose power and presence did exceedingly appear among us;
 for as our suffering at that time was greater than ordinary,
 even so was our refreshment in the Lord.
 I visited Friends in some parts of Cheshire and elsewhere;
@@ -39,7 +41,7 @@ which was at Balby in Yorkshire, and afterwards towards London;
 and it was so ordered that Thomas Salthouse, my dear companion and fellow servant,
 together with Bridget and Isabel Fell, did accompany me.
 When the time of our departure from Swarthmore was come,
-our hearts were sad and broken within us, as they used to be al such seasons;
+our hearts were sad and broken within us, as they used to be at such seasons;
 and when with prayers and supplications unto the
 Lord we had earnestly interceded one for another,
 and had committed one another to his custody and protection,
@@ -51,7 +53,7 @@ When we came into Yorkshire, we had some meetings;
 and when we got to Balby we found many of the ancient brethren there,
 and Friends that were come from several parts of the nation;
 so that the meeting consisted of many hundreds.
-When it was about the height, there came a part of a troop of horse to break it up,
+When it was about the height, there came a part of a calvary regiment to break it up,
 and dismiss Friends, but they were moderate,
 and Friends continued their meeting until they had freedom in the Lord to break it up.
 The next day we had a very large and precious meeting, not far from that place;
@@ -78,12 +80,18 @@ and were more than a little comforted with the flock of God there,
 as oftentimes my soul had been before in that city.
 I stayed about two weeks, and afterwards parted with my dear brother Thomas Salthouse.
 
+[.offset]
 +++[+++The following letter,
 descriptive of the state of things in London at this period may be here inserted;
-it is taken from the Swarthmore Collection.
+it is taken from the Swarthmore Collection.+++]+++
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 London, 7th of Third month, 1660.
 
+[.salutation]
 To Thomas Willan.
 
 Dear friend, Our dear and unfeigned love reaches to you, and to the brethren with you,
@@ -133,11 +141,13 @@ who are speedily preparing the way for his coming, which is suddenly expected:
 but blessed be the Lord forever, in whose power we can testify, that our King is come,
 who reigns in power and great glory; and therefore we need not look for another.
 
+[.signed-section-signature]
 William Caton, Thomas Salthhouse.
 
-London,
-8th of Third month.--This very day the king has
-been proclaimed in an extraordinary manner;
+[.signed-section-context-open]
+London, 8th of Third month.
+
+This very day the king has been proclaimed in an extraordinary manner;
 the concourse of people that have been in the streets has been innumerable;
 the shouting for joy has been so exceedingly great among the people at times,
 that the sound of many trumpets could scarcely be heard,
@@ -146,7 +156,7 @@ but the noise has been exceedingly confused, like the noise of many waters.
 Time would fail me to relate the fantastical ceremonies that have been used,
 and the extraordinary pomp, the mayor and aldermen with the gentry have appeared in.
 
-Oh! the vanity and superfluity of wickedness which has appeared in the city,
+Oh! The vanity and superfluity of wickedness which has appeared in the city,
 my pen could not declare it in several hours`' time to the utmost.
 But at present I have not much time, being about to go to a meeting,
 not knowing certainly whether this day they will allow us to keep any of our meetings;
@@ -154,9 +164,9 @@ for they would not allow that at Westminster to be kept this day.
 This wickedness, which is now at an extraordinary height,
 will have an end in the Lord`'s time.
 Let this be sent to Swarthmore, after Friends have seen it at Kendal;
-my entire love is unto all the faithful there and elsewhere.
-Farewell.
+my entire love is unto all the faithful there and elsewhere. Farewell.
 
+[.signed-section-signature]
 William Caton
 
 My dear love in that which is our life, is unto you all,
@@ -168,7 +178,12 @@ because they will not act anything till Charles comes,
 except what is in order to the bringing of him in,
 and so they were but lost to be given to them at present.
 
-Richard Hubberthorne.London, 8th of Third month, 1660.
+[.signed-section-signature]
+Richard Hubberthorne
+
+[.signed-section-closing]
+London, 8th of Third month, 1660.
+--
 
 Returning to Journal:
 
@@ -213,21 +228,26 @@ wherein the truth did flourish and prevail mightily in very many parts of the na
 which was no small cause of joy to us, who were witnesses of it.
 
 I returned again to London, where I always found service enough,
-and for the most part a door open in that city.--When I had been some time in it,
+and for the most part a door open in that city. When I had been some time in it,
 and had had good service there and thereabouts, it was upon me to go over to Holland;
 and I returned into Kent after I had in much brokenness of heart,
-and in perfect love and unity taken my leave of Friends and brethren at London,
+and in perfect love and unity taken my leave of Friends and brethren at London.
 In passing through the country I visited Friends and their meetings, as my manner was;
 and I stayed several days at Staplehurst, with Thomas Housegoe,
-who then lay upon his death-bed,
+who then lay upon his deathbed,
 who had been a serviceable instrument in his day in those parts;
 and after he was laid in the ground, we had a very precious meeting,
 there being many Friends at his burial.
 
+[.offset]
 +++[+++At Dover, he writes to his friend George Fox, under date of the 16th of Ninth month,
-1660; from which letter the following are extracts.
+1660; from which letter the following are extracts.+++]+++
 
-To George Fox
+[.embedded-content-document.letter]
+--
+
+[.salutation]
+To George Fox,
 
 Since I came from London, I have had good service in this county, at Sutton, Cranbrook,
 Tenterden, but especially at Staplehurst, and in Thomas Housegoe`'s family;
@@ -241,21 +261,21 @@ so that it was a very honorable burial.
 After his body was laid in the ground.
 Friends drew nigh into the meeting place, with several of the world,
 where we had a precious meeting;
-for the power and presence of the Lord were abundantly manifested amongst us,
+for the power and presence of the Lord were abundantly manifested among us,
 to the consolation of Friends in general.
 That night it was upon me to return to his house again, where I had very good service,
 and in the morning I left them in a pretty good hopeful posture;
 but assuredly he will be very much missed in those parts,
 and I believe there will be now more necessity of Friends
-visiting them pretty often than there was before:
-I desire that you wouldest be mindful of them.
+visiting them more often than there was before:
+I desire that you would be mindful of them.
 
 I have also been at William Beeme`'s, and at Hythe, and at Folkstone,
 where I find Friends very well,
 but some in deep sufferings for that unhallowed ordination of tithe;
 some are in prison at Canterbury, and some in Dover Castle, for refusing to pay it.
 Yesterday I came to this town,
-and had a very good meeting yesternight among Friends here,
+and had a very good meeting last night among Friends here,
 who are as well as ever I knew them.
 Since I came to this town, I have been to see for shipping,
 and there are some vessels ready;
@@ -270,5 +290,8 @@ life, and wisdom of our God, to his praise,
 and to the comfort and consolation of the brethren, with whom I can rest in the Lord,
 even in the heat of the day; glory be to the Lord forever.
 
-William Caton.
-From Swarthmore Collection.
+[.signed-section-signature]
+William Caton
+--
+
++++[+++From Swarthmore Collection.+++]+++
