@@ -1,8 +1,10 @@
 == Chapter XIII.
 
-1659-60--His service in the South of Lancashire--Attends a
-general meeting at Balby in Yorkshire--Travels to London,
-also into Sussex, Kent, and so into Norfolk--Returns to London and proceeds to Dover.
+[.chapter-synopsis]
+* 1659-60--His service in the South of Lancashire
+* Attends a general meeting at Balby in Yorkshire
+* Travels to London, also into Sussex, Kent, and so into Norfolk
+* Returns to London and proceeds to Dover.
 
 When I had continued at Swarthmore some time,
 it was upon me to go into the south of Lancashire, to visit Friends and their meetings;
@@ -10,7 +12,7 @@ which I did,
 and had several good and serviceable meetings in divers of the great towns in Lancashire,
 as at Garstang, Preston, Wigan, Liverpool, and Warrington, etc.
 
-Being al a meeting in Warrington, the 7th of the twelfth month, 1659,
+Being at a meeting in Warrington, the 7th of the twelfth month, 1659,
 there came several rude soldiers of the baser sort, who did much abuse Friends;
 and after they had done much violence to us, they broke up our meeting,
 and forced us out of the town: but we gathered together again,
@@ -38,7 +40,7 @@ which was at Balby in Yorkshire, and afterwards towards London;
 and it was so ordered that Thomas Salthouse, my dear companion and fellow servant,
 together with Bridget and Isabel Fell, did accompany me.
 When the time of our departure from Swarthmore was come,
-our hearts were sad and broken within us, as they used to be al such seasons;
+our hearts were sad and broken within us, as they used to be at such seasons;
 and when with prayers and supplications unto the
 Lord we had earnestly interceded one for another,
 and had committed one another to his custody and protection,
@@ -79,10 +81,15 @@ I stayed about two weeks, and afterwards parted with my dear brother Thomas Salt
 
 +++[+++The following letter,
 descriptive of the state of things in London at this period may be here inserted;
-it is taken from the Swarthmore Collection.
+it is taken from the Swarthmore Collection.+++]+++
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 London, 7th of Third month, 1660.
 
+[.salutation]
 To Thomas Willan.
 
 Dear friend, Our dear and unfeigned love reacheth to thee, and to the brethren with thee,
@@ -119,7 +126,7 @@ and others that dreaded them are now become a dread unto them.
 Indeed, now are anguish and distress come and coming upon many,
 whose hearts have been nourished, and exalted, and puffed up without the fear God;
 who have not regarded the cries of the oppressed, nor stood in God`'s counsel;
-but have boasted themselves against +++[+++those]
+but have boasted themselves against +++[+++those+++]+++
 that hewed with them once.
 Therefore, is it just with the Lord to give them for a prey to their enemies,
 who were a prey to them, while they stood in God`'s counsel;
@@ -133,10 +140,13 @@ who are speedily preparing the way for his coming, which is suddenly expected:
 but blessed be the Lord forever, in whose power we can testify, that our King is come,
 who reigns in power and great glory; and therefore we need not look for another.
 
+[.signed-section-signature]
 William Caton, Thomas Salthhouse.
 
-London,
-8th of Third month.--This very day the king hath
+[.signed-section-context-open]
+London, 8th of Third month.
+
+This very day the king hath
 been proclaimed in an extraordinary manner;
 the concourse of people that have been in the streets has been innumerable;
 the shouting for joy hath been so exceedingly great among the people at times,
@@ -154,9 +164,9 @@ for they would not suffer that at Westminster to be kept this day.
 This wickedness, which is now at an extraordinary height,
 will have an end in the Lord`'s time.
 Let this be sent to Swarthmore, after Friends have seen it at Kendal;
-my entire love is unto all the faithful there and elsewhere.
-Farewell.
+my entire love is unto all the faithful there and elsewhere. Farewell.
 
+[.signed-section-signature]
 William Caton
 
 My dear love in that which is our life, is unto you all,
@@ -168,7 +178,12 @@ because they do not act any thing till Charles come,
 but what is in order to the bringing of him in,
 and so they were but lost to be given to them at present.
 
-Richard Hubberthorne.London, 8th of Third month, 1660.
+[.signed-section-signature]
+Richard Hubberthorne
+
+[.signed-section-context-close]
+London, 8th of Third month, 1660.
+--
 
 Returning to Journal:
 
@@ -216,7 +231,7 @@ I returned again to London, where I always found service enough,
 and for the most part a door open in that city.--When I had been some time in it,
 and had had good service there and thereabouts, it was upon me to go over to Holland;
 and I returned into Kent after I had in much brokenness of heart,
-and in perfect love and unity taken my leave of Friends and brethren at London,
+and in perfect love and unity taken my leave of Friends and brethren at London.
 In passing through the country I visited Friends and their meetings, as my manner was;
 and I stayed several days at Staplehurst, with Thomas Housegoe,
 who then lay upon his death-bed,
@@ -225,8 +240,12 @@ and after he was laid in the ground, we had a very precious meeting,
 there being many Friends at his burial.
 
 +++[+++At Dover, he writes to his friend George Fox, under date of the 16th of Ninth month,
-1660; from which letter the following are extracts.
+1660; from which letter the following are extracts.+++]+++
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 To George Fox
 
 Since I came from London, I have had good service in this county, at Sutton, Cranbrook,
@@ -270,5 +289,8 @@ life, and wisdom of our God, to his praise,
 and to the comfort and consolation of the brethren, with whom I can rest in the Lord,
 even in the heat of the day; glory be to the Lord forever.
 
+[.signed-section-signature]
 William Caton.
-From Swarthmore Collection.
+--
+
++++[+++From Swarthmore Collection.+++]+++
