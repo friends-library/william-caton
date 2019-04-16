@@ -99,6 +99,7 @@ and blessed be the Lord for our preservation.
 [.embedded-content-document.letter]
 --
 
+[.salutation]
 O! My beloved friends,
 
 It is delightful to me to meditate upon the Lord`'s love to you,
@@ -193,7 +194,7 @@ your dear brother in the fellowship of sufferings, in the gospel of peace,
 [.signed-section-signature]
 William Caton.
 
-[.signed-section-closing]
+[.signed-section-context-close]
 Amsterdam, 25th of Eleventh month, 1660.
 --
 
