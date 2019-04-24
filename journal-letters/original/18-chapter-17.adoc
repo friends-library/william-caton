@@ -1,9 +1,10 @@
 == Chapter XVII.
 
-1663--He visits Friends in Cumberland--Proceeds into
-Durham--At Scarborough takes shipping for Holland,
-but reaches Yarmouth Roads--Is driven back by storm again to Yarmouth,
-where he is committed to prison from Eighth month, 1663, to Second month, 1664.
+[.chapter-synopsis]
+* 1663--He visits Friends in Cumberland
+* Proceeds into Durham
+* At Scarborough takes shipping for Holland, but reaches Yarmouth Roads
+* Is driven back by storm again to Yarmouth, where he is committed to prison from Eighth month, 1663, to Second month, 1664.
 
 After being at Swarthmore I went to Lancaster, Kendal, and other places,
 and visited Friends in those parts to our mutual comfort.
@@ -88,14 +89,21 @@ or any oath whatsoever, we were committed to prison upon the 4th day of the eigh
 1663, and continued in prison until the 22nd of the second month, 1664;
 and then I with the rest of my fellow prisoners was discharged.
 
+[.offset]
 The following interesting Epistles,
-nearly all of which are from the Swarthmore Collection,
+nearly all of which are from the [.book-title]#Swarthmore Collection#,
 will serve to carry on the narrative beyond the period of the termination of the Journal.
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 William Caton To Friends.
 
+[.signed-section-context-open]
 Yarmouth Common Jail, 9th of eighth month, 1663.
 
+[.salutation]
 Dear and affectionately beloved Friends,
 
 In the everlasting fellowship of the gospel of peace,
@@ -244,12 +252,20 @@ and who is able to preserve you unto the end, whose name is called the Lord of h
 do I commit you all; with whom I remain,
 in the unity and fellowship of the eternal Spirit of life, your dear friend and brother,
 
+[.signed-section-signature]
 William Caton.
 
+--
+
+[.offset]
 An extract from an Epistle of William Caton to Friends,
 dated a few days after the preceding one;
 it is from a collection of copied letters from Colchester.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Friends,
 
 How near at hand we found Him unto us, even as a rock of defence to fly unto,
@@ -298,15 +314,21 @@ And blessed and thrice happy are they, and will they be,
 that continue faithful unto the end,--for they shall be saved.
 Farewell in the Lord, in whom I remain your dear friend and brother,
 
+[.signed-section-signature]
 William Caton.
 
+[.signed-section-context-close]
 Yarmouth Common Jail, 14th of Eighth month, 1663.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Addressed to T. S. and J. P.
 
+[.salutation]
 Dear brethren, T. S. and J. P.,
 
 Yours dated the 12th of last month I have this afternoon received,
@@ -358,18 +380,26 @@ for not repairing to their devised devotion.
 I am yet very well, blessed be the Lord; so are we all.
 
 My dearest love is with you, my dear brethren.
+
+[.signed-section-closing]
 Farewell,
 
+[.signed-section-signature]
 William Caton.
 
+[.signed-section-context-close]
 Yarmouth, 1st of Tenth month, 1663
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Addressed to James Moore, woollen-draper, Kendal.
 
-Dear J. M.,
+[.salutation]
+Dear James Moore,
 
 With the salutation of dear and unfeigned love, do I dearly salute thee,
 and all our dear Friends and brethren with thee;
@@ -436,8 +466,10 @@ I have little else to communicate,
 besides the redoubling of my salutation of true love unto thee and to all the brethren.
 I am, dear James, thy real friend and brother,
 
+[.signed-section-signature]
 William Caton.
 
+[.signed-section-context-close]
 Yarmouth, 18th of Second month, 1664
 
 P+++.+++ S.--The vessel out of which my fellow prisoners were taken,
@@ -448,9 +480,16 @@ and one of them having heretofore been a slave in Turkey,
 knows what a miserable servitude it is.
 But the Lord knows right well, how to order things for the best, to them that fear him.
 
+--
+
+[.offset]
 At the period of the following Epistle, we find William Caton in Holland;
 it is dated Rotterdam, 16th of Tenth month, 1664.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear and entirely beloved friends,
 
 The love and affection that abounds in my heart
@@ -539,7 +578,7 @@ and it may be that when the vial of the Lord`'s indignation shall be poured fort
 then the day of the Lord`'s gathering shall be.
 This day I have seen their weekly news,
 in which they have made mention of our seven Hertford Friends,^
-footnote:[See Sewel`'s History, under date of 1664.]
+footnote:[See [.book-title]# Sewel`'s History#, under date of 1664.]
 that were ordered to be sent away,
 showing that neither wind nor weather would serve the ship so that she could sail.
 And when the master could have no success with them, he put them ashore,
@@ -563,12 +602,19 @@ And in this union and oneness we suffer and
 rejoice with you;--and in the one eternal Spirit,
 by which we are united, do I remain, as in months past, your dear brother and companion,
 
+[.signed-section-signature]
 William Caton.
 
+--
+
+[.offset]
 The following are extracts from the latest original letter of William Caton`'s,
 which the Editor has been able to discover.
 It is dated "`Amsterdam, 19th and 20th of the Eighth month,
 1665,`" and is addressed to James Moore, woollen-draper, Kendal.
+
+[.embedded-content-document.letter]
+--
 
 I give you to understand, that through the infinite mercy of the Lord we are very well,
 and our meetings continue unmolested;
@@ -603,7 +649,10 @@ and of my love to Yealand Friends in the truth I could say much.
 I herewith commit you all to the protection of the Almighty--
 and in love unfeigned remain thy and your dear friend,
 
+[.signed-section-signature]
 William Caton.
+
+--
 
 There is reason to believe that within two, or, at most,
 three months from the date of this last epistle, William Caton was removed by death,
