@@ -321,16 +321,11 @@ Yarmouth Common Jail, 14th of Eighth month, 1663.
 
 --
 
-[.asterism]
-'''
-
-[.offset]
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 Addressed to T. S. and J. P.
-
-[.embedded-content-document.letter]
---
 
 [.salutation]
 Dear brethren, T. S. and J. P.,
@@ -396,16 +391,11 @@ Yarmouth, 1st of Tenth month, 1663
 
 --
 
-[.asterism]
-'''
-
-[.offset]
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 Addressed to James Moore, woollen-draper, Kendal.
-
-[.embedded-content-document.letter]
---
 
 [.salutation]
 Dear James Moore,
