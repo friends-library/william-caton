@@ -1,9 +1,9 @@
 == Chapter XVI.
 
-1662--He returns to England; when in London,
-he sees Edward Burrough in Newgate shortly before his death--Travels into Surrey, Sussex,
-and Kent; is apprehended at Folkestone, but is discharged--Again visits Holland,
-and returns with his wife: travels into Warwickshire, etc., and arrives at Swarthmore.
+[.chapter-synopsis]
+* 1662--He returns to England; when in London, he sees Edward Burrough in Newgate shortly before his death
+* Travels into Surrey, Sussex, and Kent; is apprehended at Folkestone, but is discharged
+* Again visits Holland, and returns with his wife: travels into Warwickshire, etc., and arrives at Swarthmore.
 
 After our marriage I continued several weeks with my dear wife,
 and the Lord was pleased very much to comfort and refresh us together
@@ -40,9 +40,9 @@ and therefore I was preserved out of their hands.
 
 We passed into Kent, visiting Friends and their meetings in our travels,
 as our manner was: at Staplehurst we had a precious general meeting,
-after which we parted in the fulness of brotherly love; he +++[+++Joseph Fuce]
+after which we parted in the fulness of brotherly love; he +++[+++Joseph Fuce+++]+++
 went back into Sussex again, and I went towards Dover.
-When I came to Foulstone +++[+++Folkestone]
+When I came to Foulstone +++[+++Folkestone+++]+++
 I attended a general meeting there; and the officers of the town, whilst I was speaking,
 came into the meeting, and apprehended me, and carried me before the mayor;
 who being pretty moderate, would finally have set me at liberty, if I would promise him,
@@ -96,7 +96,7 @@ with his warrant subscribed by several justices; but he knew not me from the res
 Moreover, there being a woman Friend speaking, he troubled himself a little with her;
 but afterwards went away, and my liberty was preserved for future service,
 through the mercy and goodness of the Lord God.
-Afterwards we visited Friends at Coxhall +++[+++Coggeshall]
+Afterwards we visited Friends at Coxhall +++[+++Coggeshall+++]+++
 and Witham, to their and our refreshment in the Lord.
 
 In some short time after, we went up to London,
@@ -129,13 +129,13 @@ and truly our rejoicing was more than a little in the Lord,
 having not seen one another for a long time before.
 We travelled together into Staffordshire, and there parted, some went for the north,
 some for Derbyshire; I returned again to a general meeting in Warwickshire,
-and went afterwards to Warwick, Coventry, etc,
+and went afterwards to Warwick, Coventry, etc.,
 and visited Friends in several places in that county,
 where I also met with dear George Fox to my refreshment.
 
 After that I went into Derbyshire, and had a meeting in the city of Derby,
 and visited Friends elsewhere in that county.
-Then I went into some part of Nottinghamshire, where I met with dear M. F. again;
+Then I went into some part of Nottinghamshire, where I met with dear Margaret Fell again;
 and afterwards we went to Chesterfield, where we had a very good meeting.
 We then went into Yorkshire, visiting Friends as we went,
 to a place called Sinderhill Green, where dear George Fox met us:

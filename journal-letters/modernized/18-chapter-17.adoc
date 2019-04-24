@@ -1,9 +1,10 @@
-== Chapter XVII.
+== Chapter XVII
 
-1663-- He visits Friends in Cumberland--Proceeds into
-Durham--At Scarborough takes shipping for Holland,
-but reaches Yarmouth Roads--Is driven back by storm again to Yarmouth,
-where he is committed to prison from Eighth month, 1663, to Second month, 1664.
+[.chapter-synopsis]
+* 1663-- He visits Friends in Cumberland
+* Proceeds into Durham
+* At Scarborough takes shipping for Holland, but reaches Yarmouth Roads
+* Is driven back by storm again to Yarmouth, where he is committed to prison from Eighth month, 1663, to Second month, 1664.
 
 After being at Swarthmore I went to Lancaster, Kendal, and other places,
 and visited Friends in those parts to our mutual comfort.
@@ -34,13 +35,13 @@ and after we were much comforted together, we took leave one of another,
 and parted in the same love and unity in which
 we had been so plenteously refreshed together.
 
-I travelled into the bishoprick, and visited Friends there, and went to Durham,
+I travelled into the country, and visited Friends there, and went to Durham,
 and visited those that were in prison; and from there went to Sunderland,
 and had a general meeting between Sunderland and the Shields.
 Upon inquiry after shipping for Holland,
 I heard of several that were preparing to go over, but the wind being contrary,
 and being desirous to visit more Friends, I travelled along the country,
-not far from the sea-side, visiting Friends as I went, at Shotton, Stockton, Whitby,
+not far from the seaside, visiting Friends as I went, at Shotton, Stockton, Whitby,
 and elsewhere, and had some very good meetings.
 When I came to Scarborough, I heard of vessels there also,
 that were intended for Holland.
@@ -51,10 +52,10 @@ and went aboard one; but soon after, we met with contrary winds: howbeit,
 we got up as far as Yarmouth Roads, and there waiting awhile,
 the weather being pretty good, we set sail again, intending to run over,
 if the Lord permitted.
-When we had gotten about ten leagues, I was much persuaded we should have a storm,
+When we had gotten about ten leagues, I was much persuaded there would be a storm,
 and told the master of it, and would have had him return again for England;
 it being then indifferent weather, he did not much mind my words,
-but endeavored to press forwards, though the wind was contrary.
+but endeavored to press forward, though the wind was contrary.
 But that night following, according to my persuasion and expectation,
 we had a very sore tempestuous storm, and our ship proved very leaky;
 so that with pumping and other extraordinary work,
@@ -68,13 +69,13 @@ and granted my desires; though for my own part,
 I was freely given up to the blessed will of the Lord,
 if it had been to have made my grave in those great deeps.
 But the Lord was determined to show mercy unto us, which evidently appeared,
-in his bringing us, through such apparent danger among the sands,
+in his bringing us through such apparent danger among the sands,
 even finally back to the English coast again:
 for which extraordinary mercy my soul has cause forever to bless,
 praise and magnify his glorious name.
 
 Afterwards we got well, through mercy, into Yarmouth Roads again,
-and the wind remaining contrary, we put into the haven, and I went up to the town,
+and the wind remaining contrary, we put into the harbor, and I went up to the town,
 where I waited some days for the wind.
 In the mean time the first-day of the week came,
 and it was upon me to go to the meeting of Friends, which accordingly I did;
@@ -87,16 +88,23 @@ and the next morning we were brought before the bailiffs of the town,
 who tendered us the oath of allegiance; and because we refused to take it,
 or any oath whatsoever, we were committed to prison upon the 4th day of the eighth month,
 1663, and continued in prison until the 22nd of the second month, 1664;
-and then I with the rest of my fellow prisoners was discharged.
+and then I, with the rest of my fellow prisoners, was discharged.
 
+[.offset]
 The following interesting Epistles,
-nearly all of which are from the Swarthmore Collection,
+nearly all of which are from the [.book-title]#Swarthmore Collection#,
 will serve to carry on the narrative beyond the period of the termination of the Journal.
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 William Caton To Friends.
 
+[.signed-section-context-open]
 Yarmouth Common Jail, 9th of eighth month, 1663.
 
+[.salutation]
 Dear and affectionately beloved Friends,
 
 In the everlasting fellowship of the gospel of peace,
@@ -119,8 +127,7 @@ So that whosoever deem or imagine we are losers through our coming to be of this
 or by our coming to the knowledge of this eternal Truth, I say, no;
 for the things that we have lost by reason of it, being but as dross and dung,
 are not worthy to be compared to what we have gained through it.
-Shall not we therefore love the Truth?
-and shall not we be willing to suffer the loss
+Shall not we therefore love the Truth?--and shall not we be willing to suffer the loss
 of all this world can afford us for its sake?
 For can we have a better cause to suffer for than the Truth?
 Can we suffer upon a more honorable account, than upon the Truth`'s account,
@@ -141,16 +148,16 @@ Let our souls and spirits therefore praise and magnify him forever and ever!
 And now, Friends, you may hereby understand,
 how that after I had had a very precious opportunity with many of you in the north,
 to my great refreshment in the Lord, I was clear in myself to return again for Holland;
-and in order thereunto, I passed towards the sea-coasts; and when I came there,
+and in order thereunto, I passed towards the sea coasts; and when I came there,
 I heard of ships that were nearly ready to go for Holland,
 both at Newcastle and Sunderland.
 But the wind being out of the way or contrary,
 and I being desirous to improve my time to the utmost,
 and withal being very desirous to see as many Friends as I could before I took shipping,
 I travelled along the coasts towards Whitby and Scarborough,
-and had some very good and precious meetings among Friends by the sea-side.
+and had some very good and precious meetings among Friends by the seaside.
 And finding a ship ready at Scarborough, and the wind being good, I went aboard her:
-but the wind came contrary again:
+but the wind became contrary again:
 howbeit we kept out at sea and that for the space of nine days,
 whereas if the wind had been good we might have sailed it in two days.
 But finally a tempestuous storm came upon us, of which I had had some sight before,
@@ -178,7 +185,7 @@ indeed I confess I could sometimes expect little else.
 At that time I could have bid you all farewell, and all that in this world I do enjoy,
 and could have gone to my everlasting home in peace with my God;
 who even then beheld my meditations and intercessions; and because he loved me,
-was he prevailed withal, even for his mercy`'s sake, who was determined, as appeared,
+was he prevailed upon, even for his mercy`'s sake, who was determined, as appeared,
 to show mercy unto us.
 
 For when we were near the sands,
@@ -237,7 +244,7 @@ to bear our testimony for the Lord in this place,
 as many of our brethren have done elsewhere.
 For my own part I am perfectly satisfied in the will of the Lord,
 not so much admiring at my present bonds,
-as I have admired sundry times that I have been so long kept out of bonds;
+as I have admired various times that I have been so long kept out of bonds;
 unto which I have long been freely given up in the will of God,
 where my soul is in peace with the Lord.
 Unto him who has gathered you by the arm of his power,
@@ -245,12 +252,19 @@ and who is able to preserve you unto the end, whose name is called the Lord of h
 do I commit you all; with whom I remain,
 in the unity and fellowship of the eternal Spirit of life, your dear friend and brother,
 
+[.signed-section-signature]
 William Caton.
 
-An extract from an Epistle of William Caton to Friends,
-dated a few days after the preceding one;
-it is from a collection of copied letters from Colchester.
+--
 
+[.offset]
+An extract from an Epistle of William Caton to Friends, dated a few days after
+the preceding one; it is from a collection of copied letters from Colchester.
+
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 Dear Friends,
 
 How near at hand we found Him unto us, even as a rock of defense to fly unto,
@@ -299,15 +313,26 @@ And blessed and thrice happy are they, and will they be,
 that continue faithful unto the end,--for they shall be saved.
 Farewell in the Lord, in whom I remain your dear friend and brother,
 
+[.signed-section-signature]
 William Caton.
 
+[.signed-section-context-close]
 Yarmouth Common Jail, 14th of Eighth month, 1663.
+
+--
 
 [.asterism]
 '''
 
+[.offset]
+
+[.letter-heading]
 Addressed to T. S. and J. P.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear brethren, T. S. and J. P.,
 
 Yours dated the 12th of last month I have this afternoon received,
@@ -359,18 +384,31 @@ for not attending their devised devotion.
 I am yet very well, blessed be the Lord; so are we all.
 
 My dearest love is with you, my dear brethren.
+
+[.signed-section-closing]
 Farewell,
 
+[.signed-section-signature]
 William Caton.
 
+[.signed-section-context-close]
 Yarmouth, 1st of Tenth month, 1663
+
+--
 
 [.asterism]
 '''
 
+[.offset]
+
+[.letter-heading]
 Addressed to James Moore, woollen-draper, Kendal.
 
-Dear J. M.,
+[.embedded-content-document.letter]
+--
+
+[.salutation]
+Dear James Moore,
 
 With the salutation of dear and unfeigned love, do I dearly salute you,
 and all our dear Friends and brethren with you;
@@ -436,8 +474,10 @@ I have little else to communicate,
 besides the redoubling of my salutation of true love unto you and to all the brethren.
 I am, dear James, your real friend and brother,
 
+[.signed-section-signature]
 William Caton.
 
+[.signed-section-context-close]
 Yarmouth, 18th of Second month, 1664
 
 P+++.+++ S.--The vessel out of which my fellow prisoners were taken,
@@ -448,9 +488,16 @@ and one of them having heretofore been a slave in Turkey,
 knows what a miserable servitude it is.
 But the Lord knows right well, how to order things for the best, to them that fear him.
 
+--
+
+[.offset]
 At the period of the following Epistle, we find William Caton in Holland;
 it is dated Rotterdam, 16th of Tenth month, 1664.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear and entirely beloved friends,
 
 The love and affection that abounds in my heart
@@ -464,7 +511,7 @@ does my love extend unto you; and with the sense of your love,
 and the mercy of God to you and me, is my heart broken, my spirit melted within me,
 and mine eyes filled with tears.
 And what is that which thus breaks and overcomes me?
-surely it is nothing but the sense of the same love and life,
+Surely it is nothing but the sense of the same love and life,
 which we have felt one in another, when we were together,
 to the comforting and refreshing of our souls.
 And though I am far separated from you as to the outward,
@@ -540,7 +587,7 @@ and it may be that when the vial of the Lord`'s indignation shall be poured fort
 then the day of the Lord`'s gathering shall be.
 This day I have seen their weekly news,
 in which they have made mention of our seven Hertford Friends,^
-footnote:[See Sewel`'s History, under date of 1664.]
+footnote:[See [.book-title]#Sewel`'s History#, under date of 1664.]
 that were ordered to be sent away,
 showing that neither wind nor weather would serve the ship so that she could sail.
 And when the master could have no success with them, he put them ashore,
@@ -564,12 +611,19 @@ And in this union and oneness we suffer and
 rejoice with you;--and in the one eternal Spirit,
 by which we are united, do I remain, as in months past, your dear brother and companion,
 
+[.signed-section-signature]
 William Caton.
 
+--
+
+[.offset]
 The following are extracts from the latest original letter of William Caton`'s,
 which the Editor has been able to discover.
 It is dated "`Amsterdam, 19th and 20th of the Eighth month,
 1665,`" and is addressed to James Moore, woollen-draper, Kendal.
+
+[.embedded-content-document.letter]
+--
 
 I give you to understand, that through the infinite mercy of the Lord we are very well,
 and our meetings continue unmolested;
@@ -578,7 +632,7 @@ there may be some contentious or light person, who may seem to be a little troub
 But I must confess we have no just cause to complain,
 having no greater suffering than our sympathizing with our
 suffering brethren in England in their grievous sufferings.
-O! that the Lord would be pleased, in this remarkable visitation,
+O!--that the Lord would be pleased, in this remarkable visitation,
 which is upon that nation,
 to break the hearts of them that are so inclined to persecution;--
 that they might come to desist from all such destructive enterprises,
@@ -604,7 +658,10 @@ and of my love to Yealand Friends in the truth I could say much.
 I herewith commit you all to the protection of the
 Almighty--and in love unfeigned remain your dear friend,
 
+[.signed-section-signature]
 William Caton.
+
+--
 
 There is reason to believe that within two, or, at most,
 three months from the date of this last epistle, William Caton was removed by death,
