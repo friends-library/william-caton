@@ -1,7 +1,7 @@
 == Chapter VII.
 
 [.chapter-synopsis]
-* 1656--Attends a general meeting in Leicestershire
+* 1656+++.+++ Attends a general meeting in Leicestershire
 * Again visits Scotland; has good meetings at Edinburgh, Leith, Stirling, etc.
 * Returns to Swarthmore, and proceeds to Bristol and into Cornwall
 * Visits George Fox in Launceston jail.

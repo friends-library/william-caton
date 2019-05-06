@@ -1,7 +1,7 @@
 == Chapter VI
 
 [.chapter-synopsis]
-* 1655--Visits Scotland, passing through Northumberland
+* 1655+++.+++ Visits Scotland, passing through Northumberland
 * Has good service for the Lord at Edinburgh and Glasgow
 * Returns to Swarthmore, and proceeds to Cheshire.
 
@@ -11,9 +11,9 @@ before we were clear of that service beyond the sea.
 Having taken my leave in abundance of love of my dearly beloved friends at Swarthmore,
 I went through Westmoreland, and had some good meetings among Friends there,
 which were of good service.
-Upon the 12th of the ninth month, 1655, I went towards the territory under the
-church`'s jurisdiction, in order to go into Scotland.
-When I came there, I met with my dear companion John Stubbs again;
+Upon the 12th of the ninth month, 1655,
+I went towards the bishopric, in order to go into Scotland.
+When I came into the bishopric, I met with my dear companion John Stubbs again;
 and when we had visited the brethren and Friends in those parts,
 and had been truly refreshed together in the Lord,
 we went afterwards into Northumberland; in some parts of which we had very good service,
@@ -26,12 +26,12 @@ On first-day following, I was moved to go into their great assembly,
 where none of our Friends had been,
 but such as had been imprisoned and afterwards put out of the town.
 Nevertheless, I was not therefore to be discouraged,
-but went in boldly in the name and power of the Lord; and when the priest was done,
+but went in boldly in the name and power of the Lord; and when the priest had finished,
 I stood up upon a stall, but none seemed to make such haste to get away as the priest;
 however, my mouth was opened in much power,
 and the Lord was pleased to give me courage and boldness,
 and indifferently good liberty I had to declare the truth.
-When I was done, the mayor met me at the door, and took me by the hand,
+When I had finished, the mayor met me at the door, and took me by the hand,
 and delivered me to the sergeants;
 but afterwards I was brought before the mayor and magistrates,
 and further examined by them,
@@ -129,8 +129,8 @@ and at the places afore-mentioned, I was pretty free to return again to England,
 which I did.
 
 When I came back to England,
-I visited Friends both in Northumberland and in Durham
-and had some good service among them, especially in Durham;
+I visited Friends both in Northumberland and in the bishopric [Durham]
+and had some good service among them, especially in the bishopric;
 and afterwards I visited Friends again in Westmoreland,
 and in due time got well back to Swarthmore, where I was received as formerly,
 even in the fulness of dear and precious love.

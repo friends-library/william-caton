@@ -1,7 +1,7 @@
 == Chapter X.
 
 [.chapter-synopsis]
-* 1657--His service in several cities in Holland
+* 1657+++.+++ His service in several cities in Holland
 * The love of God to him and Friends there
 * He returns again to England
 * Attends a general meeting in Bedfordshire

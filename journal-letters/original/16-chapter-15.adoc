@@ -1,7 +1,7 @@
 == Chapter XV.
 
 [.chapter-synopsis]
-* 1661--He visits Manheim and Frankfort, his ill-treatment in a Monastery--
+* 1661+++.+++ He visits Manheim and Frankfort, his ill-treatment in a Monastery--
 * Visits the Jesuits`' College at Worms
 * At Heidleberg is introduced to the Prince
 * Is married to Anneken Derricks at Amsterdam, 1662.
@@ -69,14 +69,17 @@ and returned again to Kriesheim, where our Friends inhabited; for sometimes I wa
 sometimes at Heidleberg, and sometimes elsewhere,
 where I saw the Lord had a service for me.
 
-[.offset]
+[.emphasized]
 +++[+++The following is an extract from an Epistle addressed to Friends in London,
-by William Caton, dated Kreisheim, near Worms, in Germany, 50th of Eleventh month, 1661,
-This instructive Epistle is printed at large in [.book-title]#Besse`'s Sufferings#, vol.
-2+++.+++ p, 451.+++]+++
+by William Caton, dated Kreisheim, near Worms, in Germany, 30th of Eleventh month, 1661,
+This instructive Epistle is printed at large in [.book-title]#Besse`'s Sufferings#,
+vol. 2. p, 451.+++]+++
 
 [.embedded-content-document.epistle]
 --
+
+[.letter-heading]
+William Caton to Friends in London
 
 We have cause to praise and magnify the Lord God omnipotent forever,
 who doth not only comfort and refresh us in our tribulations,

@@ -1,7 +1,7 @@
 == Chapter XII.
 
 [.chapter-synopsis]
-* 1659--He proceeds by sea to Sunderland, and passes westward to Swarthmore
+* 1659+++.+++ He proceeds by sea to Sunderland, and passes westward to Swarthmore
 * His services in Cumberland
 * Travels to Edinburgh, Leith, and other parts, and returns to Swarthmore.
 
@@ -74,16 +74,19 @@ which he promised to communicate to his master,
 whereupon I came to be pretty well discharged.
 
 [.offset]
-+++[+++The following letter is from the Swarthmore Collection: Thomas Willan, it appears,
-was a Friend of Kendal.
++++[+++The following letter is from the Swarthmore Collection:
+Thomas Willan, it appears, was a Friend of Kendal.]
 
 [.embedded-content-document.letter]
 --
 
-[.salutation]
-To Thomas Willan,
+[.letter-heading]
+William Caton To Thomas Willan
 
-My dear friend,--Such is my love to thee and to Friends,
+[.salutation]
+My dear friend,
+
+Such is my love to thee and to Friends,
 that I cannot very well omit such an opportunity as this, when it is put into my hands,
 but that I must let you know something of my welfare and of
 the affairs of the gospel in these parts where I am;
@@ -143,7 +146,7 @@ For a further account I refer thee to the bearer hereof, George Collison.
 
 Salute me very dearly to Friends that inquire of me,
 and let them know that I am well at the writing hereof, praised be the Lord!
-Many things I might write of, but not knowing in whose hands this may come,
+Many things I might write of, but not knowing in whose hands this may come,^
 footnote:[This surmise seems to have been realised;
 for by a few lines written by the said George Collison, at Carlisle,
 on the back of the original letter, he states, that when he came near that city,
@@ -154,10 +157,10 @@ that nation being reported by the writer to be at this period "`in a mighty upro
 shall therefore be sparing; and remain my dear friend and brother in the pure truth,
 
 [.signed-section-signature]
-William Caton Leith,
+William Caton
 
 [.signed-section-context-close]
-near Edinburgh, 14th of Ninth month, 1659.]
+Leith, near Edinburgh, 14th of Ninth month, 1659.]
 
 --
 

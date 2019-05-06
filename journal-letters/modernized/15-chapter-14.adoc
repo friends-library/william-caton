@@ -1,7 +1,7 @@
 == Chapter XIV
 
 [.chapter-synopsis]
-* 1660--He leaves Dover for Holland
+* 1660+++.+++ He leaves Dover for Holland
 * His service in several cities and places
 * Returns to London (1661) but soon after revisits Holland
 * He travels with William Ames into Germany
@@ -44,7 +44,7 @@ to go into Friesland, which we did;
 and in due time through mercy we arrived well upon a first-day in the morning,
 at a place called Dockham, where we went into the meeting of the Baptists, so called,
 which was very large.
-When he that spoke was done,
+When he that spoke had finished,
 I stood up and began to declare the everlasting truth in their own language.
 They were much divided among themselves, for some would gladly have heard me,
 others would not allow me; but one of the chiefest of their teachers was very moderate,
@@ -72,9 +72,10 @@ where there were also many of the aforesaid Baptists,
 and we were entertained by an old man, who had been a preacher among them for many years.
 
 When first-day came, it was upon us to go to their place of worship, which we did;
-and waited until he that was speaking was done: afterwards I began to speak,
-but he would not allow me, (that is,
-he that had preached,) but became presently very angry,
+and waited until he that was speaking had finished.
+Afterwards I began to speak, but he would not allow me,
+(that is, he that had preached,)
+but became presently very angry,
 though the people would gladly have heard me; but he would not permit them;
 and he became finally so uncivil,
 that he put the people out of the meeting place with his own hands;
@@ -92,12 +93,15 @@ where we were received with joy and gladness by Friends,
 who rejoiced with us in the good service which we had had;
 and blessed be the Lord for our preservation.
 
-[.offset]
+[.emphasized]
 +++[+++From this city William Caton addressed a letter to Friends in England,
 (as is supposed,) from which the following extracts are selected.+++]+++
 
 [.embedded-content-document.letter]
 --
+
+[.letter-heading]
+William Caton to Friends in England
 
 [.salutation]
 O! My beloved friends,
@@ -126,7 +130,7 @@ or we will not allow any of His messengers and servants to dwell among us,
 but we will imprison them, and put them to death,`' etc.
 Thus the Lord may permit them to do,
 until they have filled up the measure of their iniquities, as the Amorites did;
-and then shall His iron rod be stretched over them,
+and then shall his iron rod be stretched over them,
 by which they shall be broken to pieces like a potter`'s vessel, who have abhorred Him,
 and hated Him without a cause; but in that day will he spare you,
 who have followed Him through great tribulation.-- In the meantime, O! Beloved,
@@ -136,10 +140,15 @@ in whom he has chosen in these latter days to manifest his power and glory,
 to the families of the earth,
 whose glory and dignity must be stained and brought to nothing.
 
+--
+
 [.offset]
 +++[+++He then proceeds to give a similar narrative of his labors in Friesland, etc.,
 though somewhat more minute than given at this place in the Journal.
 He afterwards adds;+++]+++
+
+[.embedded-content-document.letter]
+--
 
 The sudden and violent storm which you have had in England,^
 footnote:[See the [.book-title]#Histories of England# concerning the

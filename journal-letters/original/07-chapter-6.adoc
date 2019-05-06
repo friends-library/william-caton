@@ -1,7 +1,7 @@
 == Chapter VI.
 
 [.chapter-synopsis]
-* 1655--Visits Scotland, passing through Northumberland
+* 1655+++.+++ Visits Scotland, passing through Northumberland
 * Has good service for the Lord at Edinburgh and Glasgow
 * Returns to Swarthmore, and proceeds to Cheshire.
 

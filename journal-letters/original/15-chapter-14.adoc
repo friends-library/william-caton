@@ -1,7 +1,7 @@
 == Chapter XIV.
 
 [.chapter-synopsis]
-* 1660--He leaves Dover for Holland
+* 1660+++.+++ He leaves Dover for Holland
 * His service in several cities and places
 * Returns to London (1661,) but soon after revisits Holland
 * He travels with William Ames into Germany
@@ -93,12 +93,15 @@ where we were received with joy and gladness by Friends,
 who rejoiced with us in the good service which we had had;
 and blessed be the Lord for our preservation.
 
-[.offset]
+[.emphasized]
 +++[+++From this city William Caton addressed a letter to Friends in England,
 (as is supposed,) from which the following extracts are selected.+++]+++
 
 [.embedded-content-document.letter]
 --
+
+[.letter-heading]
+William Caton to Friends in England
 
 [.salutation]
 O! My beloved friends,

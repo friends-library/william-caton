@@ -1,7 +1,7 @@
 == Chapter IX
 
 [.chapter-synopsis]
-* 1656--Sails for Holland--
+* 1656+++.+++ Sails for Holland
 * Visits Amsterdam and Rotterdam
 * His service at both places
 * Is imprisoned at Middleburgh, and conveyed on board of a ship of war for England
@@ -196,13 +196,19 @@ but the Lord was with me,
 and the right hand of his righteousness upheld
 me,--glory be to his holy name forever and ever!
 
-[.offset]
-+++[+++The following valuable epistle from the Swarthmore Collection, is dated "`Amsterdam,
-in Holland, 15th of third month, 1657:`" It bears an endorsement in the handwriting
-(as the editor believes,) of George Fox, thus: William Caton to Friends, 1657.+++]+++
+[.emphasized]
++++[+++The following valuable epistle is from the Swarthmore Collection.
+It bears an endorsement which reads "`William Caton to Friends, 1657`"
+in the handwriting (the editor believes,) of George Fox.+++]+++
 
-[.embedded-content-document.letter]
+[.embedded-content-document.epistle]
 --
+
+[.letter-heading]
+William Caton to Friends
+
+[.signed-section-context-open]
+Amsterdam, in Holland, 15th of third month, 1657
 
 To all my dearly beloved Friends that be elected of God,
 sanctified through the Word of his grace to be vessels of honor,

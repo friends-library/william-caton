@@ -1,7 +1,7 @@
 == Chapter IV.
 
 [.chapter-synopsis]
-* 1655--He travels with John Stubbs into Kent
+* 1655+++.+++ He travels with John Stubbs into Kent
 * They reach Dover, are haled before the Magistrates
 * Luke Howard
 * His boldness in their service
@@ -52,27 +52,28 @@ and had afterwards a meeting or meetings in his house;
 and several at that time came to be convinced of the truth,
 whom we commended to the grace of God and left them.
 
-[.offset]
+[.small-break]
+'''
+
 +++[+++Editor`'s Note: The following account is given by Luke Howard in his Journal,
 of his first meeting with William Caton, and of his visit to Dover.
 After describing the bewildered state of his own mind,
 and that he could find no trodden path, and no man to lead him out of the wilderness,
 Luke Howard informs us, he went up to London in 1654-5;
-and on a first-day he went to hear one Cardwell, in Lombard street.
+and on a first-day he went to hear "`one Cardwell, in Lombard street.
 When he had done, there stood up a young man newly come out of the north country,
 his name was William Caton; who sounded an alarm out of Zion,
 and proclaimed the gospel of peace.
 At that time it seemed to me like the priest`'s preaching;
 my mind then being more abroad after visible things, than within after invisible:
-which made me say to my companion, '`come,
-let us begone to dinner,`' (not staying till he
-had done;) '`for I know as much as he can tell me,
-or more than I or he either can live in;`' thus
-making myself a judge of his life and doctrine,
+which made me say to my companion,
+'`come, let us begone to dinner,`'
+(not staying till he had done;)
+'`for I know as much as he can tell me, or more than I or he either can live in;`'
+thus making myself a judge of his life and doctrine,
 which I knew not: and so I turned my back upon the truth, as too many do.
 
-[.offset]
-The after part of the day we spent our time in walking in the fields;
+"`The after part of the day we spent our time in walking in the fields;
 and the week following I got home.
 The next first-day afterwards, one meets me in the street,
 and tells me there was a Quaker preaching in the churchyard,
@@ -89,17 +90,14 @@ but could not, so I went alone; and then met with him and his dear companion Joh
 who had been at the other steeple-house.
 I believe the Lord stirred me in my mind to go to see them.
 I found them eating a little bread with beer, without anything to sweeten or relish it.
-
-[.offset]
 So I asked them to go out with me;
 and we went to a professor`'s (Baptist,) who conversed with them much,
 and agreed to have a meeting the next day in the Baptist`'s meeting-house,
 which was performed;--After which many followed them to their inn,
 as wonderers and gazers, and some to oppose.
-Then the rulers of the town sent to the innkeeper to turn them out of his house,
-or else they would pluck down his sign.
 
-[.offset]
+"`Then the rulers of the town sent to the innkeeper to turn them out of his house,
+or else they would pluck down his sign.
 So the innkeeper spoke to me, because he saw that I most took their parts,
 and desired me to tell them, which I did: but I also said to John and William,
 '`Go home to my house, for I care not for the rulers or mayor either.`'
@@ -107,11 +105,11 @@ So they went with me, and the fifth-day following we had a great meeting at my h
 and their testimony was to me as John the Baptist`'s was to Herod, who heard him gladly,
 and as Paul`'s was to Agrippa, who was almost persuaded to be a Christian.
 I was convinced in my judgment, and their testimony was to me as a pleasant song:
-so the meeting ended, and all passed away in quiet.
+so the meeting ended, and all passed away in quiet.`"
 
-[.offset]
 He then describes his refusing to give up these Friends,
 when applied to by the constables sent to his house by the mayor, etc.
+
 "`The next day at my house again, we had a good and blessed meeting I may say;
 in which these words were delivered,
 viz:--that notwithstanding men`'s profession of religion,
@@ -128,16 +126,16 @@ and they took in writing the names of some towns and men along
 the sea-coast:--and all whose names I gave received them;
 at which time Samuel Fisher was one.
 After I left them, my sorrow was great, and my tears many;
-so that I had much ado to get and keep my eyes dry, when I came back to Dover.`"+++]+++
+so that I had much ado to get and keep my eyes dry,
+when I came back to Dover.`"+++]+++
 
 [.asterism]
 '''
 
+[.emphasized]
 +++[+++The following letter copied from the original,
 found in a valuable private collection of letters formerly from Swarthmore,
-may also be interesting to the reader.
-It is addressed "`For his dearly beloved friends Francis Howgill or Edward Burrough,
-at Justice Hubbert`'s house, in Moorfields, London.`"+++]+++
+may also be interesting to the reader.+++]+++
 
 [.embedded-content-document.letter]
 --
@@ -210,11 +208,10 @@ John Stubbs, William Caton
 [.signed-section-context-close]
 Dover, 19th of First month, 1654
 
-We would have you to show this to George (doubtless George Fox).
+[.postscript]
+We would have you to show this to G. _(doubtless George Fox.)_
 
 --
-
-Returning to William Caton`'s journal:
 
 After that we went thence to a town called Foulstone +++[+++Folkestone,+++]+++
 where we were kindly received by Thomas Nichols,
@@ -295,12 +292,12 @@ Accordingly meetings came to be settled in most of the places before mentioned,
 which they that were convinced kept up after our departure.
 
 [.offset]
-+++[+++Editor`'s Note:
-Dover Friends were among the first that set this
++++[+++Dover Friends were among the first that set this
 noble example of gathering in the name of Him,
 who promised to be in the midst of them,
 and who was found to be the faithful and true witness unto them.
 Of this, Luke Howard wrote as follows:
+
 "`I may also acquaint you a little how things were with
 us in our first convincement and meetings,
 after we came to sit down to wait upon the Lord in silence;
@@ -313,9 +310,9 @@ that hath made our outward bodies tremble as well as our hearts:
 and great fear and reverence took hold of my heart;
 and the Lord confirmed his truth in me from day to day, and answered my doubts,
 and settled my faith by and in his power.`"--Luke Howard`'s
-[.book-title]#Collection of Writings,#
-1704, p. 29.]
+[.book-title]#Collection of Writings,# 1704, p. 29.+++]+++
 
+[.offset]
 Returning to journal:
 
 After that, we were moved to go to a great town called Maidstone;
@@ -355,9 +352,6 @@ we were free to receive victuals for our money, and did eat and were refreshed.
 +++[+++Editor`'s Note: The following particulars, in addition to those given above,
 are obtained from some early records of Friends of East Kent.
 
-[.embedded-content-document.minutes]
---
-
 "`William Caton being brought before the magistrate, was examined where he dwelt,
 and how long it was since he came from his outward being, and what way he came;
 with more of the like questions.
@@ -389,10 +383,9 @@ and been whipped: we did not deal so badly with them here.`'
 '`No,`' said Luke Howard, '`but you dealt with them worse than you should.`'
 So in a little time came William Caton and John Stubbs again to Dover, where they,
 with Friends, enjoyed their meetings peaceably:
-many being convinced.`" --Manuscript of Friends of East Kent.+++]+++
+many being convinced.`"--Manuscript of Friends of East Kent.+++]+++
 
---
-
+[.offset]
 Returning to journal:
 
 The next day following, after their cruelty seemed to be abated, they sent an officer,

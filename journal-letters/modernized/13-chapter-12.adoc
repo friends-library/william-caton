@@ -1,7 +1,7 @@
 == Chapter XII
 
 [.chapter-synopsis]
-* 1659--He proceeds by sea to Sunderland, and passes westward to Swarthmore
+* 1659+++.+++ He proceeds by sea to Sunderland, and passes westward to Swarthmore
 * His services in Cumberland
 * Travels to Edinburgh, Leith, and other parts, and returns to Swarthmore.
 
@@ -15,7 +15,7 @@ where there were abundance of Friends and others;
 and the power and presence of the Lord was with us,
 through which we were much refreshed together.
 
-After that meeting I visited many Friends in the region,
+After that meeting I visited many Friends in the bishopric,
 and in a short time after passed westwards towards Lancashire through Westmoreland,
 visiting Friends in my journey, as my manner was.
 I got well to Swarthmore, where I was received in the same ancient and entire love,
@@ -58,7 +58,7 @@ about twelve miles from Edinburgh;
 where we found Friends at their meeting by the highway side,
 to which many people resorted, and good service we had at it.
 Howbeit the people of the town were so incensed against us,
-that we could scarcely get any provisions among them for our money;
+that we could scarcely get any entertainment among them for our money;
 but the wife of the governor of the castle being at the meeting,
 her heart was opened and filled with love towards us and the truth,
 and she constrained us to turn in and take up our lodging in the castle;
@@ -72,17 +72,20 @@ and was constrained to deliver my message or to make known my business to his se
 which he promised to communicate to his master,
 whereupon I came to be pretty well discharged.
 
-[.offset]
-+++[+++The following letter is from the Swarthmore Collection: Thomas Willan, it appears,
-was a Friend of Kendal.
+[.emphasized]
++++[+++The following letter is from the Swarthmore Collection:
+Thomas Willan, it appears, was a Friend of Kendal.]
 
 [.embedded-content-document.letter]
 --
 
-[.salutation]
-To Thomas Willan,
+[.letter-heading]
+William Caton To Thomas Willan
 
-My dear friend,--Such is my love to you and to Friends,
+[.salutation]
+My dear friend,
+
+Such is my love to you and to Friends,
 that I cannot very well omit such an opportunity as this, when it is put into my hands,
 but that I must let you know something of my welfare and of
 the affairs of the gospel in these parts where I am;
@@ -142,7 +145,7 @@ For a further account I refer you to the bearer hereof, George Collison.
 
 Salute me very dearly to Friends that inquire of me,
 and let them know that I am well at the writing hereof, praised be the Lord!
-Many things I might write of, but not knowing in whose hands this may come,
+Many things I might write of, but not knowing in whose hands this may come,^
 footnote:[This surmise seems to have been realized;
 for by a few lines written by the said George Collison, at Carlisle,
 on the back of the original letter, he states, that when he came near that city,
@@ -153,10 +156,10 @@ that nation being reported by the writer to be at this period "`in a mighty upro
 shall therefore be sparing; and remain your dear friend and brother in the pure truth,
 
 [.signed-section-signature]
-William Caton Leith,
+William Caton
 
 [.signed-section-context-close]
-near Edinburgh, 14th of Ninth month, 1659.]
+Leith, near Edinburgh, 14th of Ninth month, 1659.]
 
 --
 
@@ -181,4 +184,4 @@ bustlings and stirs that were among the children of this world,
 that there was scarcely any room at all for the truth in them.
 When I returned for England, I left Stephen Crisp in the west among Friends,
 who is a pretty wise man that came from Colchester;
-and he was determined to stay some time in that nation.`"-- Swarthmore Collection.+++]+++
+and he was determined to stay some time in that nation.`"--Swarthmore Collection.+++]+++

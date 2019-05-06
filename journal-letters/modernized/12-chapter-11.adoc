@@ -1,7 +1,7 @@
 == Chapter XI
 
 [.chapter-synopsis]
-* 1653--Travels to London
+* 1653+++.+++ Travels to London
 * His labors in Kent, Sussex, etc.
 * Proceeds to Bristol, and returns to London
 * Attends a General Meeting of ministering Friends at the Bull and Mouth (1659)
@@ -23,12 +23,16 @@ and even fulness to me out of the everlasting treasury, which,
 through him that strengthened me,
 I freely communicated to them whose souls were breathing after the Lord.
 
-+++[+++Extract from a letter dated London, 13th of Seventh month, 1658, to Margaret Fell.
-
 [.embedded-content-document.letter]
 --
 
-I came into the city, and my soul has been much refreshed among the brethren.
+[.letter-heading]
+William Caton to Margaret Fell
+
+[.signed-section-context-open]
+London, 13th of Seventh month, 1658
+
+&hellip; I came into the city, and my soul has been much refreshed among the brethren.
 Here is a mighty door open at present in this city; and Friends are generally fresh,
 lively, and tender: and for the generality of the people, they are much under,
 and many are moderate and loving, whose hearts are open to receive the truth.
@@ -45,10 +49,11 @@ who were generally very moderate and open to receive the truth.
 
 After that meeting was ended, I returned again into the city to another meeting,
 where the power and presence of the Lord was made manifest to the
-great refreshment of the most part of the Friends then assembled.+++]+++
+great refreshment of the most part of the Friends then assembled.
 
 --
 
+[.offset]
 Returning to Journal:
 
 When I had been about two weeks, or above, in and about the city, I went down into Kent,

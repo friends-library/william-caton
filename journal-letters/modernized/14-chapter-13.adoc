@@ -1,15 +1,14 @@
 == Chapter XIII
 
 [.chapter-synopsis]
-* 1659-60--His service in the South of Lancashire
+* 1659-60+++.+++ His service in the South of Lancashire
 * Attends a general meeting at Balby in Yorkshire
 * Travels to London, also into Sussex, Kent, and so into Norfolk
 * Returns to London and proceeds to Dover.
 
 When I had continued at Swarthmore some time,
 it was upon me to go into the south of Lancashire, to visit Friends and their meetings;
-which I did,
-and had several good and serviceable meetings in
+which I did, and had several good and serviceable meetings in
 several of the great towns in Lancashire,
 as at Garstang, Preston, Wigan, Liverpool, and Warrington, etc.
 
@@ -53,7 +52,7 @@ When we came into Yorkshire, we had some meetings;
 and when we got to Balby we found many of the ancient brethren there,
 and Friends that were come from several parts of the nation;
 so that the meeting consisted of many hundreds.
-When it was about the height, there came a part of a calvary regiment to break it up,
+When it was about the height, there came a part of a troop of horse to break it up,
 and dismiss Friends, but they were moderate,
 and Friends continued their meeting until they had freedom in the Lord to break it up.
 The next day we had a very large and precious meeting, not far from that place;
@@ -62,7 +61,8 @@ through the abounding of his mercy and goodness to us,
 we took leave one of another in much love and unity,
 and every one went in peace towards his respective
 place where the Lord had a service for him.^
-footnote:[See an account of these meetings in George Fox`'s Journal, under date of 1660.]
+footnote:[See an account of these meetings in George Fox`'s [.book-title]#Journal#,
+under date of 1660.]
 The aforesaid Thomas Salthouse, my dear brother, and I,
 travelled southwards towards London, and visited Friends in our journey.
 As we were travelling in Nottinghamshire,
@@ -80,7 +80,7 @@ and were more than a little comforted with the flock of God there,
 as oftentimes my soul had been before in that city.
 I stayed about two weeks, and afterwards parted with my dear brother Thomas Salthouse.
 
-[.offset]
+[.emphasized]
 +++[+++The following letter,
 descriptive of the state of things in London at this period may be here inserted;
 it is taken from the Swarthmore Collection.+++]+++
@@ -88,13 +88,16 @@ it is taken from the Swarthmore Collection.+++]+++
 [.embedded-content-document.letter]
 --
 
+[.salutation]
+William Caton and Thomas Salthouse To Thomas Willan.
+
 [.signed-section-context-open]
 London, 7th of Third month, 1660.
 
 [.salutation]
-To Thomas Willan.
+Dear friend,
 
-Dear friend, Our dear and unfeigned love reaches to you, and to the brethren with you,
+Our dear and unfeigned love reaches to you, and to the brethren with you,
 whom we dearly salute in the living Truth.
 We rejoice in the Lord,
 who lifts up our heads above the wickedness of wicked and ungodly men,
@@ -142,11 +145,12 @@ but blessed be the Lord forever, in whose power we can testify, that our King is
 who reigns in power and great glory; and therefore we need not look for another.
 
 [.signed-section-signature]
-William Caton, Thomas Salthhouse.
+William Caton
 
-[.signed-section-context-open]
-London, 8th of Third month.
+[.signed-section-signature]
+Thomas Salthhouse.
 
+London, 8th of Third month.--
 This very day the king has been proclaimed in an extraordinary manner;
 the concourse of people that have been in the streets has been innumerable;
 the shouting for joy has been so exceedingly great among the people at times,
@@ -186,6 +190,7 @@ London, 8th of Third month, 1660.
 
 --
 
+[.offset]
 Returning to Journal:
 
 I went down into Surrey and Sussex, where I had very good service for the Lord,
@@ -241,14 +246,17 @@ and after he was laid in the ground, we had a very precious meeting,
 there being many Friends at his burial.
 
 [.offset]
-+++[+++At Dover, he writes to his friend George Fox, under date of the 16th of Ninth month,
-1660; from which letter the following are extracts.+++]+++
++++[+++At Dover, he writes to his friend George Fox,
+from which letter the following are extracts.+++]+++
 
 [.embedded-content-document.letter]
 --
 
-[.salutation]
-To George Fox,
+[.letter-heading]
+William Caton To George Fox
+
+[.signed-section-context-open]
+16th of Ninth month, 1660
 
 Since I came from London, I have had good service in this county, at Sutton, Cranbrook,
 Tenterden, but especially at Staplehurst, and in Thomas Housegoe`'s family;
